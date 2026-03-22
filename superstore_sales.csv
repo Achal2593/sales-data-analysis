@@ -1,0 +1,1201 @@
+Order ID,Order Date,Ship Mode,Segment,City,Region,Category,Sub-Category,Sales,Quantity,Discount,Profit
+US-2020-1000,2020-01-12,Second Class,Home Office,Indianapolis,Central,Technology,Copiers,811.3,9,0.4,83.13
+US-2020-1001,2020-01-04,Standard Class,Home Office,Seattle,West,Furniture,Bookcases,580.5,2,0.1,228.5
+US-2020-1002,2020-01-15,First Class,Consumer,Denver,West,Technology,Copiers,7109.13,6,0.3,413.03
+US-2020-1003,2020-01-24,First Class,Home Office,Dallas,Central,Office Supplies,Binders,358.19,7,0,73.77
+US-2020-1004,2020-01-03,Standard Class,Corporate,Denver,West,Furniture,Tables,6617.48,4,0.1,1996.31
+US-2020-1005,2020-01-26,First Class,Corporate,Dallas,Central,Office Supplies,Appliances,477.74,9,0.1,121.0
+US-2020-1006,2020-01-20,First Class,Corporate,Los Angeles,West,Furniture,Furnishings,2405.66,4,0.1,-19.4
+US-2020-1007,2020-01-27,First Class,Home Office,Baltimore,East,Furniture,Chairs,4120.53,3,0,1490.36
+US-2020-1008,2020-01-22,First Class,Consumer,New Orleans,South,Furniture,Tables,12567.31,10,0.3,2385.87
+US-2020-1009,2020-01-23,Second Class,Corporate,Chicago,Central,Technology,Phones,7963.6,6,0.1,171.36
+US-2020-1010,2020-01-27,Standard Class,Consumer,Los Angeles,West,Furniture,Bookcases,880.96,1,0,256.85
+US-2020-1011,2020-01-02,Standard Class,Consumer,Chicago,Central,Furniture,Tables,12323.6,10,0,1178.19
+US-2020-1012,2020-01-03,Second Class,Consumer,Boston,East,Furniture,Chairs,984.51,1,0,169.45
+US-2020-1013,2020-01-23,Same Day,Consumer,New York,East,Office Supplies,Storage,535.2,3,0,81.25
+US-2020-1014,2020-01-26,Second Class,Consumer,Los Angeles,West,Technology,Machines,21728.48,8,0,5407.1
+US-2020-1015,2020-01-21,First Class,Corporate,Nashville,South,Technology,Machines,3024.96,8,0,-282.53
+US-2020-1016,2020-01-18,First Class,Consumer,Chicago,Central,Office Supplies,Storage,48.56,1,0.4,13.15
+US-2020-1017,2020-01-13,Same Day,Home Office,Seattle,West,Furniture,Furnishings,2947.36,5,0.2,575.14
+US-2020-1018,2020-01-23,Same Day,Consumer,New Orleans,South,Furniture,Chairs,7256.58,6,0,143.01
+US-2020-1019,2020-01-15,Same Day,Home Office,Dallas,Central,Technology,Copiers,2323.39,1,0,285.02
+US-2020-1020,2020-01-26,Same Day,Consumer,Houston,South,Office Supplies,Binders,2832.13,8,0.2,158.68
+US-2020-1021,2020-01-01,Second Class,Consumer,Nashville,South,Office Supplies,Binders,1258.62,3,0,127.01
+US-2020-1022,2020-01-09,Second Class,Consumer,Seattle,West,Office Supplies,Binders,4411.98,9,0,-21.05
+US-2020-1023,2020-01-05,First Class,Consumer,Boston,East,Technology,Copiers,1704.68,1,0.1,608.47
+US-2020-1024,2020-01-12,Standard Class,Home Office,Columbus,Central,Furniture,Bookcases,1709.92,1,0,4.9
+US-2020-1025,2020-01-13,First Class,Consumer,San Francisco,West,Office Supplies,Art,1844.64,8,0.3,159.05
+US-2020-1026,2020-01-02,First Class,Consumer,Chicago,Central,Furniture,Tables,2780.06,6,0.2,720.73
+US-2020-1027,2020-01-02,First Class,Consumer,Atlanta,South,Furniture,Bookcases,6783.93,9,0,316.83
+US-2020-1028,2020-01-16,First Class,Corporate,Baltimore,East,Office Supplies,Binders,836.03,6,0.1,89.76
+US-2020-1029,2020-01-06,Same Day,Home Office,Dallas,Central,Furniture,Furnishings,1546.83,8,0.3,-125.43
+US-2020-1030,2020-01-13,First Class,Corporate,New York,East,Furniture,Chairs,5850.58,4,0.1,-406.16
+US-2020-1031,2020-02-14,Second Class,Corporate,Dallas,Central,Technology,Accessories,6946.67,6,0.1,2738.58
+US-2020-1032,2020-02-16,Same Day,Corporate,Los Angeles,West,Furniture,Chairs,991.72,1,0.4,273.93
+US-2020-1033,2020-02-12,Second Class,Consumer,New Orleans,South,Furniture,Chairs,7976.92,4,0,-380.38
+US-2020-1034,2020-02-27,Same Day,Corporate,Nashville,South,Office Supplies,Appliances,384.45,7,0.3,130.26
+US-2020-1035,2020-02-02,Second Class,Corporate,Columbus,Central,Office Supplies,Paper,1094.76,4,0,76.75
+US-2020-1036,2020-02-26,Standard Class,Home Office,Houston,South,Office Supplies,Paper,3797.55,10,0.1,983.82
+US-2020-1037,2020-02-28,Second Class,Consumer,Nashville,South,Furniture,Chairs,440.04,1,0.1,-40.64
+US-2020-1038,2020-02-22,Standard Class,Home Office,New York,East,Office Supplies,Appliances,3052.1,9,0.3,1069.9
+US-2020-1039,2020-02-20,Second Class,Consumer,New Orleans,South,Technology,Accessories,6232.1,10,0.3,1949.7
+US-2020-1040,2020-02-27,First Class,Corporate,Nashville,South,Office Supplies,Binders,1672.52,5,0.1,110.96
+US-2020-1041,2020-02-02,Same Day,Corporate,Chicago,Central,Technology,Copiers,580.26,3,0.1,25.27
+US-2020-1042,2020-02-14,Standard Class,Home Office,Seattle,West,Furniture,Furnishings,17854.2,10,0,4227.37
+US-2020-1043,2020-02-20,Second Class,Home Office,New York,East,Technology,Copiers,1671.46,2,0.4,483.17
+US-2020-1044,2020-02-02,Same Day,Home Office,Houston,South,Technology,Phones,11389.9,6,0.1,1044.53
+US-2020-1045,2020-02-26,First Class,Home Office,Denver,West,Office Supplies,Storage,2942.82,10,0.1,866.02
+US-2020-1046,2020-02-25,Second Class,Corporate,Nashville,South,Office Supplies,Binders,1047.64,4,0,304.92
+US-2020-1047,2020-02-08,Standard Class,Home Office,Philadelphia,East,Technology,Phones,1722.48,1,0.4,47.7
+US-2020-1048,2020-02-04,Same Day,Consumer,Houston,South,Office Supplies,Art,1064.8,5,0,-28.91
+US-2020-1049,2020-02-16,First Class,Home Office,Houston,South,Furniture,Furnishings,935.37,1,0.4,108.08
+US-2020-1050,2020-02-06,Standard Class,Consumer,Columbus,Central,Technology,Phones,1723.09,2,0.2,423.69
+US-2020-1051,2020-02-10,First Class,Home Office,New York,East,Technology,Phones,4865.05,3,0.1,-478.64
+US-2020-1052,2020-02-05,Standard Class,Consumer,Columbus,Central,Furniture,Tables,3105.7,3,0.4,-136.04
+US-2020-1053,2020-02-19,Standard Class,Consumer,Dallas,Central,Technology,Machines,6461.6,5,0.1,2381.51
+US-2020-1054,2020-02-17,Second Class,Consumer,Seattle,West,Office Supplies,Art,1101.38,7,0,410.64
+US-2020-1055,2020-02-23,Standard Class,Consumer,Houston,South,Furniture,Bookcases,776.3,1,0,155.73
+US-2020-1056,2020-02-08,Same Day,Home Office,Chicago,Central,Technology,Machines,3498.2,3,0.3,171.46
+US-2020-1057,2020-02-07,First Class,Corporate,Indianapolis,Central,Technology,Phones,803.6,1,0.3,306.15
+US-2020-1058,2020-02-13,Second Class,Corporate,Denver,West,Technology,Phones,5134.14,2,0.1,-225.49
+US-2020-1059,2020-02-15,Standard Class,Corporate,Seattle,West,Technology,Accessories,4905.15,8,0.2,1807.81
+US-2020-1060,2020-02-25,First Class,Home Office,Chicago,Central,Furniture,Bookcases,257.23,8,0.4,-24.72
+US-2020-1061,2020-02-09,Standard Class,Consumer,Denver,West,Office Supplies,Paper,1719.84,8,0,411.2
+US-2020-1062,2020-02-10,Second Class,Home Office,Columbus,Central,Technology,Phones,150.67,7,0.3,18.43
+US-2020-1063,2020-03-03,Same Day,Corporate,San Francisco,West,Furniture,Chairs,6379.44,5,0.2,-260.97
+US-2020-1064,2020-03-10,Same Day,Corporate,Nashville,South,Technology,Accessories,6938.92,4,0,731.38
+US-2020-1065,2020-03-18,First Class,Corporate,Atlanta,South,Office Supplies,Paper,115.85,2,0.3,11.66
+US-2020-1066,2020-03-21,Standard Class,Corporate,Indianapolis,Central,Office Supplies,Appliances,893.9,4,0.4,129.11
+US-2020-1067,2020-03-01,Standard Class,Home Office,New Orleans,South,Technology,Accessories,2018.94,1,0.1,-176.11
+US-2020-1068,2020-03-24,Second Class,Consumer,Columbus,Central,Furniture,Furnishings,62.53,1,0,13.16
+US-2020-1069,2020-03-11,Same Day,Home Office,Atlanta,South,Office Supplies,Storage,418.53,7,0.4,108.05
+US-2020-1070,2020-03-12,Same Day,Corporate,Denver,West,Office Supplies,Appliances,187.85,3,0.2,-6.65
+US-2020-1071,2020-03-02,Second Class,Home Office,Baltimore,East,Technology,Copiers,5273.9,4,0.4,1951.44
+US-2020-1072,2020-03-25,First Class,Corporate,Boston,East,Furniture,Tables,2049.41,3,0.1,420.93
+US-2020-1073,2020-03-23,Same Day,Consumer,Nashville,South,Technology,Phones,12012.08,9,0.3,2288.06
+US-2020-1074,2020-03-05,Standard Class,Corporate,Chicago,Central,Technology,Machines,155.44,1,0,11.64
+US-2020-1075,2020-03-20,Standard Class,Corporate,Chicago,Central,Office Supplies,Paper,3058.52,7,0.1,387.98
+US-2020-1076,2020-03-03,Second Class,Home Office,Seattle,West,Technology,Copiers,13418.1,5,0,2160.25
+US-2020-1077,2020-03-16,First Class,Home Office,Nashville,South,Technology,Accessories,11325.38,5,0.1,635.54
+US-2020-1078,2020-03-02,Same Day,Corporate,New Orleans,South,Furniture,Chairs,5817.06,9,0,-554.92
+US-2020-1079,2020-03-07,Same Day,Home Office,Denver,West,Technology,Copiers,685.49,2,0.1,-34.71
+US-2020-1080,2020-03-08,Second Class,Corporate,Denver,West,Furniture,Furnishings,7980.49,7,0,3028.26
+US-2020-1081,2020-03-25,Same Day,Home Office,Seattle,West,Technology,Machines,5371.51,2,0.1,1101.38
+US-2020-1082,2020-04-24,Same Day,Consumer,Philadelphia,East,Technology,Machines,839.46,1,0,174.13
+US-2020-1083,2020-04-21,First Class,Consumer,Baltimore,East,Furniture,Bookcases,1235.91,1,0.3,407.29
+US-2020-1084,2020-04-17,First Class,Home Office,Los Angeles,West,Office Supplies,Art,1479.55,9,0.1,15.95
+US-2020-1085,2020-04-18,First Class,Corporate,Los Angeles,West,Technology,Accessories,8196.41,8,0.1,1565.76
+US-2020-1086,2020-04-25,Second Class,Corporate,Philadelphia,East,Office Supplies,Binders,2848.58,7,0,1104.9
+US-2020-1087,2020-04-21,Same Day,Consumer,Dallas,Central,Office Supplies,Paper,328.0,3,0.1,91.83
+US-2020-1088,2020-04-18,Second Class,Home Office,Philadelphia,East,Office Supplies,Binders,956.12,6,0.4,122.19
+US-2020-1089,2020-04-27,First Class,Corporate,Atlanta,South,Technology,Copiers,2973.08,2,0.1,-92.99
+US-2020-1090,2020-04-09,First Class,Home Office,Atlanta,South,Technology,Phones,3508.54,6,0.1,251.15
+US-2020-1091,2020-04-01,Same Day,Home Office,Seattle,West,Furniture,Bookcases,831.0,10,0,221.18
+US-2020-1092,2020-04-27,Standard Class,Corporate,Chicago,Central,Furniture,Chairs,468.77,1,0.1,174.74
+US-2020-1093,2020-04-06,First Class,Home Office,Columbus,Central,Office Supplies,Appliances,173.4,4,0.4,20.39
+US-2020-1094,2020-04-19,Standard Class,Corporate,Houston,South,Office Supplies,Appliances,1224.85,7,0.1,204.37
+US-2020-1095,2020-04-08,Standard Class,Consumer,San Francisco,West,Technology,Accessories,117.72,3,0,-7.08
+US-2020-1096,2020-04-23,Second Class,Home Office,Baltimore,East,Office Supplies,Art,123.65,2,0.3,44.99
+US-2020-1097,2020-04-03,First Class,Corporate,Baltimore,East,Office Supplies,Binders,909.79,7,0,193.68
+US-2020-1098,2020-04-09,Same Day,Corporate,Nashville,South,Office Supplies,Paper,1668.74,9,0.2,-31.47
+US-2020-1099,2020-04-15,Same Day,Home Office,Chicago,Central,Furniture,Bookcases,3252.51,5,0.4,1264.13
+US-2020-1100,2020-04-22,First Class,Home Office,Boston,East,Furniture,Furnishings,725.85,1,0,26.51
+US-2020-1101,2020-04-19,First Class,Consumer,Dallas,Central,Furniture,Bookcases,3612.78,5,0.1,-151.75
+US-2020-1102,2020-04-10,First Class,Corporate,Columbus,Central,Furniture,Bookcases,1700.12,1,0,310.16
+US-2020-1103,2020-04-05,First Class,Consumer,Baltimore,East,Technology,Copiers,5442.27,3,0,1600.95
+US-2020-1104,2020-04-27,Second Class,Home Office,Nashville,South,Office Supplies,Appliances,2049.3,5,0.1,-132.95
+US-2020-1105,2020-04-09,First Class,Corporate,New Orleans,South,Furniture,Chairs,4004.34,3,0,1484.92
+US-2020-1106,2020-04-07,Same Day,Consumer,Columbus,Central,Furniture,Furnishings,7056.63,5,0.1,1192.11
+US-2020-1107,2020-04-21,Second Class,Consumer,Baltimore,East,Furniture,Tables,11060.49,10,0.3,890.05
+US-2020-1108,2020-04-09,Second Class,Corporate,San Francisco,West,Technology,Accessories,7381.33,6,0.4,-667.49
+US-2020-1109,2020-05-03,Same Day,Home Office,Denver,West,Office Supplies,Appliances,977.44,8,0,370.45
+US-2020-1110,2020-05-01,First Class,Consumer,Baltimore,East,Technology,Machines,3746.3,6,0.2,-204.87
+US-2020-1111,2020-05-19,First Class,Corporate,Dallas,Central,Technology,Copiers,9266.39,7,0,1773.07
+US-2020-1112,2020-05-01,Standard Class,Consumer,Columbus,Central,Furniture,Furnishings,8763.84,9,0,-694.16
+US-2020-1113,2020-05-13,Second Class,Home Office,Boston,East,Office Supplies,Binders,2698.72,8,0,154.55
+US-2020-1114,2020-05-06,Second Class,Consumer,Chicago,Central,Technology,Copiers,20225.4,10,0,2065.05
+US-2020-1115,2020-05-12,Standard Class,Consumer,Atlanta,South,Technology,Phones,19777.77,9,0,6165.65
+US-2020-1116,2020-05-17,Same Day,Consumer,Columbus,Central,Office Supplies,Paper,1467.29,4,0.1,93.86
+US-2020-1117,2020-05-27,Standard Class,Consumer,Boston,East,Technology,Accessories,1446.5,10,0,319.35
+US-2020-1118,2020-05-25,Standard Class,Home Office,Denver,West,Office Supplies,Appliances,2459.12,8,0,626.5
+US-2020-1119,2020-05-11,Same Day,Home Office,Indianapolis,Central,Furniture,Bookcases,109.6,2,0,12.48
+US-2020-1120,2020-05-20,Second Class,Consumer,Boston,East,Technology,Phones,434.24,1,0,115.89
+US-2020-1121,2020-05-27,Standard Class,Corporate,Seattle,West,Technology,Phones,14738.92,7,0,2951.09
+US-2020-1122,2020-05-06,Standard Class,Corporate,New Orleans,South,Furniture,Furnishings,6679.89,10,0.1,1577.52
+US-2020-1123,2020-05-01,Second Class,Corporate,Boston,East,Technology,Accessories,4559.01,2,0.2,-236.37
+US-2020-1124,2020-05-26,First Class,Consumer,Baltimore,East,Office Supplies,Binders,889.87,9,0.4,123.04
+US-2020-1125,2020-05-02,Second Class,Home Office,Baltimore,East,Office Supplies,Art,83.81,2,0.2,6.64
+US-2020-1126,2020-05-06,Second Class,Home Office,San Francisco,West,Office Supplies,Storage,336.08,1,0.3,23.14
+US-2020-1127,2020-05-02,Second Class,Consumer,New Orleans,South,Office Supplies,Paper,3774.88,10,0.2,1407.27
+US-2020-1128,2020-06-12,Second Class,Corporate,New Orleans,South,Technology,Machines,1711.84,4,0.2,22.29
+US-2020-1129,2020-06-01,Standard Class,Corporate,San Francisco,West,Office Supplies,Binders,852.6,10,0,207.58
+US-2020-1130,2020-06-14,Same Day,Home Office,Houston,South,Office Supplies,Binders,47.8,2,0,13.82
+US-2020-1131,2020-06-05,Same Day,Home Office,Houston,South,Office Supplies,Storage,856.92,3,0.2,132.93
+US-2020-1132,2020-06-13,Second Class,Home Office,Atlanta,South,Office Supplies,Storage,2367.68,7,0.3,54.04
+US-2020-1133,2020-06-20,Same Day,Consumer,Chicago,Central,Technology,Copiers,4974.55,2,0.1,1984.77
+US-2020-1134,2020-06-23,Same Day,Consumer,Philadelphia,East,Technology,Phones,12911.99,7,0,2159.35
+US-2020-1135,2020-06-11,Same Day,Corporate,San Francisco,West,Technology,Copiers,1579.06,2,0.4,319.11
+US-2020-1136,2020-06-21,Standard Class,Consumer,Indianapolis,Central,Furniture,Bookcases,2456.91,2,0.2,178.64
+US-2020-1137,2020-06-18,Same Day,Consumer,Boston,East,Technology,Accessories,11764.82,6,0.1,1059.5
+US-2020-1138,2020-06-06,Standard Class,Corporate,Boston,East,Office Supplies,Appliances,442.21,4,0.2,-14.56
+US-2020-1139,2020-06-05,Second Class,Consumer,San Francisco,West,Office Supplies,Appliances,328.22,2,0.3,56.6
+US-2020-1140,2020-06-22,Standard Class,Corporate,Columbus,Central,Furniture,Chairs,6875.78,8,0.2,2406.03
+US-2020-1141,2020-06-24,First Class,Consumer,Denver,West,Technology,Accessories,7539.48,9,0.2,1255.82
+US-2020-1142,2020-06-22,Second Class,Consumer,Houston,South,Technology,Machines,8561.45,8,0.1,3273.19
+US-2020-1143,2020-06-03,Standard Class,Consumer,Denver,West,Furniture,Chairs,5635.4,4,0,187.88
+US-2020-1144,2020-06-19,First Class,Home Office,Nashville,South,Furniture,Bookcases,10520.7,8,0.2,-483.22
+US-2020-1145,2020-06-27,Second Class,Home Office,Los Angeles,West,Technology,Accessories,24934.59,9,0,7237.51
+US-2020-1146,2020-06-06,Same Day,Home Office,Denver,West,Technology,Accessories,8387.88,7,0.1,-750.01
+US-2020-1147,2020-06-16,Standard Class,Corporate,Houston,South,Furniture,Furnishings,2607.49,2,0.3,175.39
+US-2020-1148,2020-06-06,First Class,Home Office,Seattle,West,Office Supplies,Appliances,1166.09,7,0.4,38.08
+US-2020-1149,2020-06-09,Same Day,Consumer,Houston,South,Furniture,Furnishings,221.1,2,0.4,21.36
+US-2020-1150,2020-06-19,Second Class,Consumer,Philadelphia,East,Furniture,Bookcases,650.18,2,0,149.03
+US-2020-1151,2020-06-18,First Class,Corporate,Baltimore,East,Furniture,Furnishings,6831.84,10,0.4,1756.18
+US-2020-1152,2020-06-12,First Class,Consumer,Baltimore,East,Furniture,Chairs,3753.29,8,0.1,139.73
+US-2020-1153,2020-06-10,Second Class,Home Office,San Francisco,West,Furniture,Bookcases,3739.68,4,0.2,1427.76
+US-2020-1154,2020-06-12,Same Day,Consumer,Baltimore,East,Technology,Machines,8702.1,10,0,2746.18
+US-2020-1155,2020-06-28,Standard Class,Corporate,Nashville,South,Office Supplies,Storage,1335.26,6,0.3,51.68
+US-2020-1156,2020-07-08,Standard Class,Home Office,Indianapolis,Central,Technology,Phones,7314.73,6,0.1,1987.13
+US-2020-1157,2020-07-08,First Class,Home Office,Indianapolis,Central,Technology,Copiers,10155.67,8,0.1,2415.17
+US-2020-1158,2020-07-02,Standard Class,Corporate,Denver,West,Office Supplies,Binders,212.06,6,0.3,73.26
+US-2020-1159,2020-07-08,Standard Class,Consumer,Chicago,Central,Furniture,Bookcases,2643.54,6,0,-114.85
+US-2020-1160,2020-07-28,Standard Class,Home Office,Atlanta,South,Technology,Phones,3735.72,10,0.1,-221.22
+US-2020-1161,2020-07-16,Standard Class,Corporate,New Orleans,South,Office Supplies,Appliances,102.76,3,0.1,1.38
+US-2020-1162,2020-07-27,First Class,Home Office,Columbus,Central,Furniture,Furnishings,1758.0,1,0.1,-150.7
+US-2020-1163,2020-07-01,Second Class,Home Office,Boston,East,Technology,Accessories,3239.69,2,0.1,1207.09
+US-2020-1164,2020-07-23,Same Day,Consumer,New York,East,Office Supplies,Paper,1540.48,10,0.2,1.28
+US-2020-1165,2020-07-03,First Class,Consumer,Indianapolis,Central,Office Supplies,Appliances,1520.32,8,0.2,-54.06
+US-2020-1166,2020-07-25,Same Day,Consumer,Baltimore,East,Technology,Accessories,7508.27,7,0,927.27
+US-2020-1167,2020-07-21,Same Day,Home Office,Columbus,Central,Technology,Accessories,6256.4,8,0,88.4
+US-2020-1168,2020-07-02,First Class,Home Office,Seattle,West,Furniture,Chairs,3742.47,9,0,1396.31
+US-2020-1169,2020-07-02,First Class,Home Office,Denver,West,Furniture,Furnishings,2271.02,4,0.3,336.22
+US-2020-1170,2020-07-20,Same Day,Consumer,Atlanta,South,Office Supplies,Paper,763.01,3,0.3,-18.26
+US-2020-1171,2020-07-08,Same Day,Home Office,Philadelphia,East,Furniture,Furnishings,9799.11,6,0.1,-977.39
+US-2020-1172,2020-07-16,Second Class,Consumer,Columbus,Central,Office Supplies,Paper,464.95,2,0.3,168.45
+US-2020-1173,2020-07-03,Second Class,Consumer,Indianapolis,Central,Technology,Machines,9076.16,7,0.4,3585.19
+US-2020-1174,2020-07-23,Standard Class,Consumer,Seattle,West,Furniture,Tables,8022.0,7,0.4,2036.6
+US-2020-1175,2020-07-17,Same Day,Corporate,Philadelphia,East,Technology,Accessories,1421.39,7,0.3,242.24
+US-2020-1176,2020-07-03,Standard Class,Consumer,Columbus,Central,Technology,Phones,2100.0,8,0,4.15
+US-2020-1177,2020-07-19,Same Day,Corporate,Chicago,Central,Office Supplies,Binders,2131.27,9,0.2,-49.68
+US-2020-1178,2020-07-02,Second Class,Corporate,Chicago,Central,Furniture,Furnishings,5752.22,9,0.2,81.41
+US-2020-1179,2020-07-04,Same Day,Home Office,Houston,South,Office Supplies,Art,340.75,2,0.4,39.99
+US-2020-1180,2020-07-21,First Class,Corporate,Los Angeles,West,Office Supplies,Paper,382.01,1,0,96.55
+US-2020-1181,2020-07-17,Standard Class,Consumer,Boston,East,Technology,Phones,5676.21,6,0.1,1546.92
+US-2020-1182,2020-07-26,Standard Class,Corporate,Baltimore,East,Technology,Phones,7689.4,5,0.2,-239.65
+US-2020-1183,2020-07-04,Second Class,Consumer,Seattle,West,Office Supplies,Binders,2627.5,10,0,374.78
+US-2020-1184,2020-07-18,Second Class,Consumer,Columbus,Central,Office Supplies,Paper,1215.12,10,0.4,90.17
+US-2020-1185,2020-07-28,First Class,Consumer,Columbus,Central,Technology,Machines,14756.85,5,0,-861.2
+US-2020-1186,2020-07-28,Same Day,Consumer,Seattle,West,Furniture,Chairs,1240.38,2,0,317.45
+US-2020-1187,2020-07-08,Same Day,Home Office,Seattle,West,Technology,Copiers,2366.64,10,0.4,942.76
+US-2020-1188,2020-08-18,First Class,Consumer,Columbus,Central,Technology,Phones,88.23,1,0.1,-5.46
+US-2020-1189,2020-08-14,First Class,Home Office,Baltimore,East,Office Supplies,Paper,3829.14,9,0,114.05
+US-2020-1190,2020-08-12,Second Class,Home Office,Baltimore,East,Furniture,Bookcases,10281.98,9,0.4,3544.12
+US-2020-1191,2020-08-04,Second Class,Consumer,Boston,East,Furniture,Tables,7991.76,8,0.3,-676.87
+US-2020-1192,2020-08-10,First Class,Corporate,Denver,West,Technology,Phones,11271.71,6,0.3,-425.17
+US-2020-1193,2020-08-08,Second Class,Consumer,Dallas,Central,Technology,Copiers,2101.23,1,0,534.94
+US-2020-1194,2020-08-08,Second Class,Home Office,Atlanta,South,Technology,Accessories,2916.25,5,0,-27.34
+US-2020-1195,2020-08-26,Second Class,Consumer,Baltimore,East,Office Supplies,Paper,3027.54,9,0.1,906.15
+US-2020-1196,2020-08-05,Standard Class,Home Office,Houston,South,Technology,Accessories,7318.21,7,0.1,676.23
+US-2020-1197,2020-08-12,Same Day,Corporate,Indianapolis,Central,Furniture,Chairs,197.6,4,0.3,24.74
+US-2020-1198,2020-08-17,Standard Class,Home Office,New York,East,Office Supplies,Binders,1206.36,3,0.1,326.18
+US-2020-1199,2020-08-22,First Class,Corporate,Seattle,West,Technology,Accessories,3694.44,3,0.1,-344.52
+US-2020-1200,2020-08-10,Same Day,Consumer,Indianapolis,Central,Technology,Machines,3073.25,8,0.1,627.81
+US-2020-1201,2020-08-19,Same Day,Home Office,New Orleans,South,Technology,Machines,13509.89,6,0.2,4412.09
+US-2020-1202,2020-08-17,Second Class,Home Office,Seattle,West,Office Supplies,Storage,3050.28,10,0.1,-17.07
+US-2020-1203,2020-08-09,Same Day,Home Office,Philadelphia,East,Furniture,Furnishings,6433.98,5,0.3,327.01
+US-2020-1204,2020-08-06,Second Class,Home Office,Philadelphia,East,Furniture,Chairs,796.41,2,0.1,310.2
+US-2020-1205,2020-08-27,Second Class,Corporate,Seattle,West,Technology,Machines,56.76,1,0,11.57
+US-2020-1206,2020-08-01,First Class,Corporate,Philadelphia,East,Technology,Machines,3610.56,2,0.3,1050.8
+US-2020-1207,2020-08-22,Second Class,Home Office,Denver,West,Office Supplies,Paper,2746.49,7,0.1,163.78
+US-2020-1208,2020-08-17,Standard Class,Corporate,Philadelphia,East,Office Supplies,Art,827.24,4,0,-60.32
+US-2020-1209,2020-08-11,First Class,Corporate,Dallas,Central,Technology,Machines,17188.47,10,0.1,4421.12
+US-2020-1210,2020-08-17,First Class,Home Office,Los Angeles,West,Technology,Machines,996.77,2,0.4,301.1
+US-2020-1211,2020-08-22,Standard Class,Home Office,Atlanta,South,Office Supplies,Appliances,2141.72,7,0,436.35
+US-2020-1212,2020-08-09,First Class,Consumer,Baltimore,East,Furniture,Tables,10844.42,8,0.1,2637.61
+US-2020-1213,2020-08-04,Same Day,Corporate,Philadelphia,East,Office Supplies,Storage,2312.91,9,0,-221.95
+US-2020-1214,2020-08-07,Same Day,Consumer,Los Angeles,West,Technology,Phones,2881.41,3,0,724.54
+US-2020-1215,2020-08-18,Second Class,Home Office,Baltimore,East,Furniture,Furnishings,1079.22,5,0.3,110.47
+US-2020-1216,2020-08-09,Second Class,Corporate,Columbus,Central,Furniture,Tables,3593.04,3,0,676.48
+US-2020-1217,2020-09-27,Second Class,Consumer,San Francisco,West,Furniture,Chairs,2141.54,2,0,470.58
+US-2020-1218,2020-09-12,Second Class,Corporate,New York,East,Technology,Phones,13372.98,6,0,871.02
+US-2020-1219,2020-09-25,Same Day,Home Office,New Orleans,South,Technology,Machines,16451.36,8,0,-979.92
+US-2020-1220,2020-09-03,Second Class,Consumer,Dallas,Central,Technology,Copiers,6281.56,4,0,1395.4
+US-2020-1221,2020-09-22,Same Day,Corporate,Columbus,Central,Furniture,Furnishings,2613.7,2,0,423.89
+US-2020-1222,2020-09-24,Same Day,Corporate,Los Angeles,West,Office Supplies,Storage,2239.5,10,0.4,349.82
+US-2020-1223,2020-09-18,Standard Class,Home Office,Atlanta,South,Technology,Phones,926.18,2,0.4,-41.24
+US-2020-1224,2020-09-11,First Class,Corporate,Dallas,Central,Office Supplies,Binders,3899.2,10,0.2,-312.43
+US-2020-1225,2020-09-02,Same Day,Home Office,Dallas,Central,Technology,Copiers,81.29,4,0.4,22.06
+US-2020-1226,2020-09-20,Second Class,Home Office,Baltimore,East,Office Supplies,Paper,1252.14,5,0.4,8.16
+US-2020-1227,2020-09-12,Same Day,Corporate,Atlanta,South,Technology,Machines,12234.74,7,0,1911.07
+US-2020-1228,2020-09-20,Second Class,Corporate,Seattle,West,Furniture,Tables,1750.69,4,0.2,649.77
+US-2020-1229,2020-09-16,Second Class,Home Office,Baltimore,East,Furniture,Tables,8479.75,5,0,1426.82
+US-2020-1230,2020-09-09,Second Class,Corporate,Indianapolis,Central,Furniture,Bookcases,1476.24,2,0.4,520.18
+US-2020-1231,2020-09-03,First Class,Home Office,Denver,West,Technology,Machines,1980.61,1,0.1,749.26
+US-2020-1232,2020-09-11,Second Class,Corporate,New York,East,Technology,Copiers,5362.31,6,0.3,-390.24
+US-2020-1233,2020-09-08,Standard Class,Home Office,Nashville,South,Office Supplies,Art,1397.78,9,0.3,456.2
+US-2020-1234,2020-09-01,Standard Class,Consumer,Philadelphia,East,Furniture,Chairs,829.57,1,0.2,313.45
+US-2020-1235,2020-09-10,Second Class,Consumer,Seattle,West,Office Supplies,Storage,351.96,10,0.3,89.71
+US-2020-1236,2020-09-24,First Class,Consumer,Dallas,Central,Office Supplies,Paper,261.97,4,0.1,38.77
+US-2020-1237,2020-09-18,Same Day,Home Office,Boston,East,Furniture,Tables,12610.57,7,0,-7.09
+US-2020-1238,2020-09-05,Second Class,Home Office,Los Angeles,West,Furniture,Bookcases,1881.45,10,0.1,556.71
+US-2020-1239,2020-09-22,Second Class,Corporate,Dallas,Central,Office Supplies,Binders,381.62,3,0.4,64.6
+US-2020-1240,2020-09-12,First Class,Consumer,Nashville,South,Technology,Copiers,3228.21,5,0.1,-160.79
+US-2020-1241,2020-09-23,Same Day,Consumer,Philadelphia,East,Technology,Copiers,1571.29,7,0,592.51
+US-2020-1242,2020-09-09,Same Day,Corporate,Los Angeles,West,Technology,Machines,21801.72,9,0.1,6119.39
+US-2020-1243,2020-09-10,Same Day,Home Office,Los Angeles,West,Technology,Phones,5157.94,7,0.3,901.55
+US-2020-1244,2020-09-04,Same Day,Home Office,Baltimore,East,Office Supplies,Appliances,305.26,4,0.3,120.55
+US-2020-1245,2020-10-27,Second Class,Home Office,Houston,South,Furniture,Chairs,1771.8,4,0,353.04
+US-2020-1246,2020-10-20,Same Day,Home Office,Denver,West,Furniture,Tables,4035.92,4,0,632.03
+US-2020-1247,2020-10-07,Same Day,Consumer,Los Angeles,West,Technology,Copiers,19309.5,10,0,1455.86
+US-2020-1248,2020-10-27,First Class,Corporate,Boston,East,Office Supplies,Paper,1117.02,3,0.1,141.72
+US-2020-1249,2020-10-08,Second Class,Corporate,Chicago,Central,Technology,Machines,5271.08,2,0,1651.5
+US-2020-1250,2020-10-17,First Class,Corporate,Los Angeles,West,Furniture,Chairs,2389.42,3,0.2,644.2
+US-2020-1251,2020-10-13,Standard Class,Consumer,New Orleans,South,Office Supplies,Binders,658.62,4,0.1,261.7
+US-2020-1252,2020-10-05,Second Class,Home Office,Nashville,South,Technology,Phones,2388.83,3,0.1,752.6
+US-2020-1253,2020-10-27,Standard Class,Corporate,Atlanta,South,Technology,Machines,4461.9,2,0,-135.43
+US-2020-1254,2020-10-28,Standard Class,Corporate,New York,East,Technology,Phones,4113.8,2,0,605.29
+US-2020-1255,2020-10-16,Second Class,Consumer,Philadelphia,East,Technology,Machines,14819.49,7,0,278.53
+US-2020-1256,2020-10-04,First Class,Consumer,Los Angeles,West,Furniture,Tables,4285.77,3,0,1389.09
+US-2020-1257,2020-10-27,Same Day,Consumer,Philadelphia,East,Technology,Copiers,6104.94,5,0.3,2417.42
+US-2020-1258,2020-10-07,Standard Class,Home Office,Dallas,Central,Technology,Machines,3842.58,7,0.3,1355.61
+US-2020-1259,2020-10-14,Second Class,Home Office,Boston,East,Office Supplies,Paper,1034.29,9,0.1,130.83
+US-2020-1260,2020-10-26,First Class,Corporate,Dallas,Central,Technology,Copiers,13871.55,5,0,1700.36
+US-2020-1261,2020-10-21,First Class,Home Office,Houston,South,Furniture,Bookcases,232.87,1,0.3,89.19
+US-2020-1262,2020-10-04,Same Day,Home Office,Boston,East,Office Supplies,Appliances,2130.84,10,0.1,-42.27
+US-2020-1263,2020-10-09,Second Class,Home Office,Denver,West,Technology,Accessories,10582.92,8,0.1,1668.86
+US-2020-1264,2020-10-11,Same Day,Consumer,Dallas,Central,Furniture,Tables,1421.66,2,0,167.81
+US-2020-1265,2020-10-28,Same Day,Corporate,Indianapolis,Central,Office Supplies,Binders,617.9,8,0.4,-8.1
+US-2020-1266,2020-10-21,Same Day,Consumer,Baltimore,East,Technology,Phones,15982.76,9,0.4,-551.26
+US-2020-1267,2020-10-01,Second Class,Consumer,Boston,East,Technology,Phones,6414.55,5,0,325.13
+US-2020-1268,2020-10-18,Second Class,Corporate,Nashville,South,Furniture,Bookcases,10933.34,8,0.1,233.76
+US-2020-1269,2020-10-17,First Class,Consumer,Chicago,Central,Technology,Phones,538.66,2,0.2,141.32
+US-2020-1270,2020-10-06,Same Day,Corporate,Atlanta,South,Furniture,Bookcases,5975.8,4,0,1446.18
+US-2020-1271,2020-10-04,First Class,Consumer,New York,East,Office Supplies,Paper,2227.3,10,0,401.71
+US-2020-1272,2020-10-14,Standard Class,Home Office,Dallas,Central,Office Supplies,Appliances,682.23,7,0.1,89.75
+US-2020-1273,2020-11-12,First Class,Consumer,Nashville,South,Office Supplies,Paper,1045.66,9,0.2,142.68
+US-2020-1274,2020-11-01,Standard Class,Corporate,Dallas,Central,Furniture,Tables,10830.96,6,0,933.16
+US-2020-1275,2020-11-02,Same Day,Corporate,Dallas,Central,Office Supplies,Art,1107.49,3,0.1,341.32
+US-2020-1276,2020-11-24,Same Day,Home Office,Los Angeles,West,Technology,Copiers,4039.85,4,0.1,-266.39
+US-2020-1277,2020-11-07,First Class,Corporate,Chicago,Central,Technology,Accessories,158.27,1,0.4,40.95
+US-2020-1278,2020-11-26,Second Class,Corporate,New Orleans,South,Technology,Machines,220.68,1,0,16.12
+US-2020-1279,2020-11-22,Same Day,Corporate,Denver,West,Technology,Copiers,10551.05,7,0.1,2497.15
+US-2020-1280,2020-11-27,Second Class,Corporate,Indianapolis,Central,Office Supplies,Art,1086.84,5,0.4,188.93
+US-2020-1281,2020-11-08,Same Day,Consumer,Seattle,West,Furniture,Furnishings,6525.65,8,0.1,-437.79
+US-2020-1282,2020-11-08,Second Class,Consumer,Los Angeles,West,Office Supplies,Storage,657.76,8,0,189.35
+US-2020-1283,2020-11-10,Standard Class,Consumer,New Orleans,South,Office Supplies,Art,2419.91,7,0.3,-24.79
+US-2020-1284,2020-11-10,Same Day,Consumer,Columbus,Central,Technology,Accessories,5380.62,2,0,736.07
+US-2020-1285,2020-11-15,First Class,Home Office,Dallas,Central,Office Supplies,Storage,1354.0,8,0,-94.88
+US-2020-1286,2020-11-01,First Class,Corporate,Boston,East,Furniture,Furnishings,12308.31,7,0,-968.28
+US-2020-1287,2020-11-21,Standard Class,Home Office,Denver,West,Furniture,Chairs,114.54,1,0,38.66
+US-2020-1288,2020-11-20,Standard Class,Consumer,New York,East,Furniture,Chairs,17079.03,9,0,5086.06
+US-2020-1289,2020-11-18,Standard Class,Consumer,Atlanta,South,Furniture,Furnishings,1072.82,2,0.4,277.66
+US-2020-1290,2020-11-24,Same Day,Corporate,Los Angeles,West,Technology,Copiers,3097.98,2,0,821.62
+US-2020-1291,2020-11-05,Same Day,Corporate,Los Angeles,West,Office Supplies,Storage,1981.28,10,0.3,702.17
+US-2020-1292,2020-11-09,Second Class,Home Office,Philadelphia,East,Office Supplies,Storage,3394.66,9,0.2,-303.88
+US-2020-1293,2020-11-27,Second Class,Consumer,Columbus,Central,Furniture,Tables,1324.18,8,0.4,308.96
+US-2020-1294,2020-11-05,First Class,Corporate,Baltimore,East,Furniture,Bookcases,8833.32,6,0.1,3468.61
+US-2020-1295,2020-11-25,Same Day,Home Office,Boston,East,Furniture,Chairs,4013.73,4,0.2,1202.62
+US-2020-1296,2020-11-25,Second Class,Corporate,Nashville,South,Technology,Phones,5387.76,4,0.3,-447.86
+US-2020-1297,2020-12-21,Second Class,Corporate,Dallas,Central,Office Supplies,Storage,1523.47,6,0.3,-146.42
+US-2020-1298,2020-12-01,Standard Class,Home Office,Boston,East,Technology,Phones,2150.92,4,0,223.71
+US-2020-1299,2020-12-21,Second Class,Corporate,Los Angeles,West,Furniture,Bookcases,2427.83,7,0.1,464.99
+US-2020-1300,2020-12-12,Second Class,Corporate,Baltimore,East,Office Supplies,Appliances,1433.33,6,0.2,118.41
+US-2020-1301,2020-12-25,Same Day,Consumer,New Orleans,South,Furniture,Furnishings,1386.16,1,0.1,287.38
+US-2020-1302,2020-12-10,Second Class,Consumer,Los Angeles,West,Furniture,Furnishings,5713.13,8,0.1,150.54
+US-2020-1303,2020-12-15,Standard Class,Corporate,New Orleans,South,Furniture,Bookcases,1378.72,5,0.3,83.02
+US-2020-1304,2020-12-21,Second Class,Corporate,Baltimore,East,Office Supplies,Storage,462.77,5,0.3,94.39
+US-2020-1305,2020-12-01,Same Day,Home Office,Chicago,Central,Technology,Copiers,1522.81,1,0.3,270.71
+US-2020-1306,2020-12-26,Standard Class,Home Office,Atlanta,South,Technology,Machines,8971.61,9,0.4,1596.43
+US-2020-1307,2020-12-16,First Class,Corporate,Atlanta,South,Technology,Accessories,1699.83,2,0.1,-87.21
+US-2020-1308,2020-12-12,First Class,Corporate,Los Angeles,West,Office Supplies,Paper,740.79,5,0.4,52.28
+US-2020-1309,2020-12-02,Standard Class,Corporate,Dallas,Central,Office Supplies,Art,157.86,3,0,-4.31
+US-2020-1310,2020-12-03,First Class,Corporate,Seattle,West,Technology,Phones,1733.8,1,0,371.79
+US-2020-1311,2020-12-10,First Class,Home Office,New York,East,Furniture,Furnishings,1464.02,1,0.2,-70.82
+US-2020-1312,2020-12-14,First Class,Corporate,Los Angeles,West,Technology,Accessories,12983.32,8,0.3,1328.2
+US-2020-1313,2020-12-09,Standard Class,Consumer,Atlanta,South,Technology,Copiers,5594.38,3,0.3,1705.67
+US-2020-1314,2020-12-23,First Class,Consumer,Atlanta,South,Technology,Machines,7089.6,8,0.2,163.21
+US-2021-1315,2021-01-22,First Class,Consumer,Los Angeles,West,Furniture,Chairs,6579.24,10,0.4,1740.77
+US-2021-1316,2021-01-11,Standard Class,Consumer,Columbus,Central,Technology,Machines,3994.86,2,0,357.22
+US-2021-1317,2021-01-23,First Class,Home Office,Los Angeles,West,Office Supplies,Storage,964.53,3,0,132.74
+US-2021-1318,2021-01-02,Standard Class,Consumer,San Francisco,West,Furniture,Chairs,1104.26,2,0.3,145.69
+US-2021-1319,2021-01-28,First Class,Corporate,Philadelphia,East,Office Supplies,Binders,4182.9,10,0,170.06
+US-2021-1320,2021-01-06,Second Class,Home Office,Nashville,South,Furniture,Furnishings,8521.2,6,0,1903.62
+US-2021-1321,2021-01-17,Same Day,Corporate,Boston,East,Furniture,Tables,4653.79,6,0.4,1556.85
+US-2021-1322,2021-01-05,Same Day,Corporate,Los Angeles,West,Technology,Phones,802.58,3,0.4,10.51
+US-2021-1323,2021-01-22,Same Day,Corporate,Seattle,West,Furniture,Bookcases,2425.04,2,0.2,-80.05
+US-2021-1324,2021-01-07,Standard Class,Corporate,Seattle,West,Office Supplies,Appliances,2030.35,5,0.1,-184.53
+US-2021-1325,2021-01-08,First Class,Corporate,Columbus,Central,Technology,Accessories,1992.2,8,0.3,667.52
+US-2021-1326,2021-01-25,Standard Class,Consumer,Philadelphia,East,Furniture,Chairs,15614.72,8,0,-1550.55
+US-2021-1327,2021-01-13,First Class,Corporate,Seattle,West,Technology,Machines,4024.9,2,0,1123.71
+US-2021-1328,2021-01-14,Second Class,Consumer,Houston,South,Furniture,Furnishings,13081.14,10,0.1,2413.22
+US-2021-1329,2021-01-17,Same Day,Corporate,Nashville,South,Furniture,Tables,10075.43,6,0.1,3440.9
+US-2021-1330,2021-01-22,First Class,Corporate,Indianapolis,Central,Technology,Machines,4691.01,5,0.4,1387.04
+US-2021-1331,2021-01-16,Second Class,Consumer,San Francisco,West,Technology,Phones,4793.4,8,0.1,486.93
+US-2021-1332,2021-01-04,Same Day,Consumer,Denver,West,Office Supplies,Paper,217.9,5,0,42.19
+US-2021-1333,2021-01-19,Second Class,Consumer,New York,East,Technology,Accessories,375.2,1,0,94.36
+US-2021-1334,2021-01-11,Second Class,Home Office,Atlanta,South,Office Supplies,Paper,1948.86,6,0,-101.53
+US-2021-1335,2021-01-23,Second Class,Consumer,Philadelphia,East,Furniture,Furnishings,2451.88,2,0,267.71
+US-2021-1336,2021-01-25,Standard Class,Corporate,Chicago,Central,Office Supplies,Storage,848.58,6,0,104.2
+US-2021-1337,2021-01-11,Standard Class,Corporate,Houston,South,Furniture,Chairs,2632.08,7,0.1,792.69
+US-2021-1338,2021-01-18,First Class,Corporate,Los Angeles,West,Office Supplies,Appliances,1063.86,7,0,77.06
+US-2021-1339,2021-01-26,Same Day,Corporate,Houston,South,Furniture,Tables,12383.93,9,0.2,2972.87
+US-2021-1340,2021-02-11,First Class,Home Office,Seattle,West,Technology,Phones,738.78,1,0.4,225.72
+US-2021-1341,2021-02-10,Second Class,Home Office,Houston,South,Furniture,Furnishings,1288.81,1,0.2,455.83
+US-2021-1342,2021-02-27,First Class,Consumer,Denver,West,Furniture,Chairs,4705.02,9,0.4,1575.86
+US-2021-1343,2021-02-04,Second Class,Corporate,Philadelphia,East,Office Supplies,Art,1829.9,10,0,561.28
+US-2021-1344,2021-02-17,Standard Class,Corporate,Indianapolis,Central,Office Supplies,Paper,104.83,7,0.2,3.37
+US-2021-1345,2021-02-07,First Class,Corporate,Nashville,South,Technology,Copiers,6572.88,4,0.4,-608.49
+US-2021-1346,2021-02-24,Same Day,Consumer,Boston,East,Furniture,Tables,6598.62,5,0.1,2008.9
+US-2021-1347,2021-02-27,Second Class,Corporate,New York,East,Technology,Machines,21408.7,10,0,7119.29
+US-2021-1348,2021-02-24,Same Day,Home Office,Seattle,West,Technology,Phones,2324.79,10,0.1,390.21
+US-2021-1349,2021-02-25,First Class,Consumer,Baltimore,East,Office Supplies,Art,1194.3,3,0,337.94
+US-2021-1350,2021-02-25,Second Class,Home Office,Denver,West,Office Supplies,Binders,249.33,1,0,49.15
+US-2021-1351,2021-02-18,Second Class,Home Office,Columbus,Central,Technology,Phones,4288.68,9,0,1466.11
+US-2021-1352,2021-02-27,Standard Class,Corporate,Columbus,Central,Technology,Phones,10407.36,6,0,669.82
+US-2021-1353,2021-02-19,Same Day,Corporate,Denver,West,Office Supplies,Paper,125.5,1,0.3,-12.02
+US-2021-1354,2021-02-26,Standard Class,Consumer,New York,East,Furniture,Tables,11163.92,8,0,2500.11
+US-2021-1355,2021-02-13,First Class,Consumer,Baltimore,East,Technology,Copiers,7221.28,4,0,-614.48
+US-2021-1356,2021-02-22,Standard Class,Corporate,Dallas,Central,Technology,Phones,12733.5,7,0.1,4604.04
+US-2021-1357,2021-02-07,Standard Class,Consumer,San Francisco,West,Technology,Phones,8054.72,4,0.2,1037.95
+US-2021-1358,2021-02-09,Standard Class,Corporate,Denver,West,Furniture,Bookcases,8244.88,6,0.1,2449.97
+US-2021-1359,2021-02-18,Same Day,Home Office,Atlanta,South,Furniture,Furnishings,2308.95,7,0.1,242.47
+US-2021-1360,2021-02-08,Standard Class,Home Office,New Orleans,South,Office Supplies,Storage,4139.01,10,0.1,32.75
+US-2021-1361,2021-02-18,Same Day,Corporate,San Francisco,West,Furniture,Tables,8827.2,5,0,525.83
+US-2021-1362,2021-02-28,Standard Class,Consumer,Indianapolis,Central,Furniture,Bookcases,2580.17,9,0.1,664.78
+US-2021-1363,2021-02-09,Standard Class,Corporate,Chicago,Central,Office Supplies,Storage,181.13,2,0.1,26.45
+US-2021-1364,2021-02-22,Same Day,Consumer,San Francisco,West,Technology,Accessories,9908.96,4,0.1,3860.97
+US-2021-1365,2021-03-22,Standard Class,Corporate,Baltimore,East,Technology,Accessories,12228.51,6,0.3,-1058.6
+US-2021-1366,2021-03-06,Second Class,Consumer,Nashville,South,Office Supplies,Paper,516.08,2,0,77.44
+US-2021-1367,2021-03-16,Second Class,Corporate,Los Angeles,West,Technology,Machines,2460.11,5,0.1,910.48
+US-2021-1368,2021-03-03,Same Day,Corporate,Dallas,Central,Technology,Machines,5589.76,2,0,736.67
+US-2021-1369,2021-03-23,Standard Class,Corporate,Baltimore,East,Technology,Machines,7409.79,5,0.4,-218.74
+US-2021-1370,2021-03-21,First Class,Home Office,Baltimore,East,Office Supplies,Paper,54.22,2,0.3,0.85
+US-2021-1371,2021-03-21,Standard Class,Consumer,San Francisco,West,Furniture,Chairs,4694.59,7,0.2,64.15
+US-2021-1372,2021-03-20,Second Class,Corporate,Atlanta,South,Office Supplies,Art,277.13,6,0.4,43.06
+US-2021-1373,2021-03-24,Standard Class,Home Office,Los Angeles,West,Furniture,Chairs,1124.42,2,0.2,228.49
+US-2021-1374,2021-03-02,Same Day,Corporate,Philadelphia,East,Office Supplies,Appliances,1899.94,8,0.1,128.38
+US-2021-1375,2021-03-26,Second Class,Consumer,Baltimore,East,Office Supplies,Storage,910.24,10,0.2,27.47
+US-2021-1376,2021-03-24,First Class,Home Office,Boston,East,Office Supplies,Binders,889.72,5,0.2,24.12
+US-2021-1377,2021-03-13,Standard Class,Home Office,Nashville,South,Furniture,Bookcases,6194.62,6,0.3,4.16
+US-2021-1378,2021-03-07,First Class,Consumer,Boston,East,Furniture,Bookcases,291.57,3,0,92.6
+US-2021-1379,2021-03-03,Same Day,Corporate,Chicago,Central,Office Supplies,Binders,2145.53,7,0.2,476.58
+US-2021-1380,2021-03-19,Standard Class,Consumer,Philadelphia,East,Office Supplies,Appliances,886.72,8,0,-18.69
+US-2021-1381,2021-03-21,Same Day,Home Office,Columbus,Central,Technology,Phones,4832.16,4,0.4,133.77
+US-2021-1382,2021-03-20,Standard Class,Home Office,New York,East,Office Supplies,Binders,452.41,4,0.1,-23.02
+US-2021-1383,2021-03-05,First Class,Home Office,Dallas,Central,Office Supplies,Art,1230.21,8,0.3,-114.37
+US-2021-1384,2021-03-09,First Class,Home Office,Denver,West,Technology,Copiers,1077.98,1,0.4,199.78
+US-2021-1385,2021-03-11,Standard Class,Home Office,Boston,East,Furniture,Bookcases,5255.82,5,0.1,662.79
+US-2021-1386,2021-03-19,Standard Class,Consumer,Philadelphia,East,Technology,Machines,3579.22,2,0.2,1132.33
+US-2021-1387,2021-03-28,First Class,Corporate,Seattle,West,Furniture,Bookcases,3020.08,2,0,452.47
+US-2021-1388,2021-03-11,Standard Class,Consumer,Chicago,Central,Furniture,Furnishings,8831.95,8,0.1,578.42
+US-2021-1389,2021-03-18,Same Day,Corporate,San Francisco,West,Technology,Copiers,4368.11,6,0.1,927.64
+US-2021-1390,2021-03-12,Standard Class,Corporate,Columbus,Central,Technology,Copiers,927.42,3,0,266.89
+US-2021-1391,2021-04-09,First Class,Consumer,Columbus,Central,Technology,Accessories,23315.04,8,0,3970.49
+US-2021-1392,2021-04-16,Standard Class,Corporate,Columbus,Central,Technology,Phones,24309.0,10,0,1931.21
+US-2021-1393,2021-04-15,Same Day,Home Office,Baltimore,East,Furniture,Tables,2911.16,4,0,981.26
+US-2021-1394,2021-04-15,Standard Class,Home Office,San Francisco,West,Office Supplies,Binders,99.35,1,0.4,38.12
+US-2021-1395,2021-04-14,First Class,Consumer,Boston,East,Office Supplies,Appliances,1415.85,5,0,-44.47
+US-2021-1396,2021-04-17,Standard Class,Home Office,Denver,West,Technology,Copiers,7062.36,5,0.2,110.97
+US-2021-1397,2021-04-05,Second Class,Home Office,Boston,East,Technology,Machines,626.52,4,0,113.22
+US-2021-1398,2021-04-28,First Class,Home Office,Columbus,Central,Technology,Copiers,9486.22,8,0.1,-132.97
+US-2021-1399,2021-04-01,Standard Class,Home Office,Dallas,Central,Technology,Accessories,1191.46,1,0,-38.27
+US-2021-1400,2021-04-10,First Class,Home Office,Boston,East,Furniture,Tables,609.51,3,0,63.22
+US-2021-1401,2021-04-03,First Class,Corporate,Columbus,Central,Furniture,Tables,957.58,1,0.2,275.41
+US-2021-1402,2021-04-20,Second Class,Home Office,San Francisco,West,Furniture,Furnishings,3744.54,10,0.1,1123.02
+US-2021-1403,2021-04-15,First Class,Corporate,Columbus,Central,Furniture,Bookcases,10662.21,9,0,2220.2
+US-2021-1404,2021-04-15,Standard Class,Corporate,Seattle,West,Furniture,Furnishings,1386.0,2,0.2,-34.85
+US-2021-1405,2021-04-06,Same Day,Home Office,San Francisco,West,Technology,Machines,15671.7,6,0,1677.05
+US-2021-1406,2021-04-27,Standard Class,Corporate,Houston,South,Technology,Accessories,13818.66,6,0,-1168.77
+US-2021-1407,2021-04-20,Same Day,Corporate,New Orleans,South,Technology,Accessories,11787.3,10,0.1,1202.06
+US-2021-1408,2021-04-19,Same Day,Consumer,Atlanta,South,Technology,Phones,2281.46,3,0.2,-89.14
+US-2021-1409,2021-04-10,Standard Class,Corporate,Dallas,Central,Office Supplies,Paper,841.41,8,0.2,117.74
+US-2021-1410,2021-04-01,Second Class,Home Office,Atlanta,South,Office Supplies,Paper,835.62,6,0,276.91
+US-2021-1411,2021-04-12,Same Day,Home Office,New Orleans,South,Technology,Accessories,23263.56,10,0.1,6640.16
+US-2021-1412,2021-04-10,Second Class,Corporate,Nashville,South,Office Supplies,Paper,141.68,10,0.3,32.4
+US-2021-1413,2021-04-23,Second Class,Corporate,Atlanta,South,Technology,Machines,10886.67,10,0.1,3238.61
+US-2021-1414,2021-04-10,First Class,Consumer,Houston,South,Technology,Phones,13975.92,7,0.1,2282.6
+US-2021-1415,2021-04-04,Second Class,Corporate,Los Angeles,West,Furniture,Tables,1558.3,3,0.2,7.12
+US-2021-1416,2021-04-14,First Class,Corporate,Chicago,Central,Office Supplies,Storage,130.82,1,0.1,24.39
+US-2021-1417,2021-04-11,Same Day,Home Office,New York,East,Office Supplies,Art,1413.7,5,0,537.8
+US-2021-1418,2021-04-19,First Class,Home Office,Houston,South,Technology,Machines,24060.24,10,0.1,-970.56
+US-2021-1419,2021-05-26,First Class,Home Office,Boston,East,Office Supplies,Paper,52.42,3,0.3,16.35
+US-2021-1420,2021-05-11,Same Day,Consumer,San Francisco,West,Office Supplies,Art,405.02,2,0,84.61
+US-2021-1421,2021-05-07,First Class,Consumer,Baltimore,East,Furniture,Chairs,9952.25,6,0.1,3385.23
+US-2021-1422,2021-05-07,Second Class,Consumer,New Orleans,South,Furniture,Tables,1574.07,3,0.1,561.11
+US-2021-1423,2021-05-09,Second Class,Corporate,Columbus,Central,Office Supplies,Storage,848.96,4,0,259.79
+US-2021-1424,2021-05-04,First Class,Corporate,New York,East,Office Supplies,Paper,2852.4,10,0,93.3
+US-2021-1425,2021-05-04,Same Day,Corporate,Chicago,Central,Furniture,Bookcases,3486.17,2,0.1,1176.06
+US-2021-1426,2021-05-16,Second Class,Corporate,Baltimore,East,Furniture,Bookcases,1954.88,4,0,-156.79
+US-2021-1427,2021-05-15,Same Day,Consumer,Chicago,Central,Furniture,Tables,2024.34,2,0.2,-25.63
+US-2021-1428,2021-05-27,Same Day,Corporate,San Francisco,West,Office Supplies,Appliances,969.26,8,0.1,293.15
+US-2021-1429,2021-05-22,First Class,Consumer,Seattle,West,Technology,Machines,2142.11,3,0.4,-96.48
+US-2021-1430,2021-05-12,Standard Class,Corporate,Chicago,Central,Technology,Copiers,7313.85,4,0.3,90.48
+US-2021-1431,2021-05-20,First Class,Corporate,Baltimore,East,Office Supplies,Binders,2594.16,9,0,712.29
+US-2021-1432,2021-05-02,Standard Class,Corporate,Boston,East,Technology,Phones,18929.19,7,0,2089.3
+US-2021-1433,2021-05-19,Same Day,Corporate,Philadelphia,East,Office Supplies,Binders,312.14,1,0,98.99
+US-2021-1434,2021-05-07,Standard Class,Home Office,Indianapolis,Central,Furniture,Chairs,1086.26,3,0.1,17.03
+US-2021-1435,2021-05-08,Second Class,Consumer,Houston,South,Office Supplies,Appliances,1704.88,4,0,165.22
+US-2021-1436,2021-05-18,Same Day,Consumer,Los Angeles,West,Furniture,Furnishings,9806.27,8,0.3,276.19
+US-2021-1437,2021-05-22,Same Day,Home Office,New Orleans,South,Office Supplies,Appliances,1116.27,3,0,377.76
+US-2021-1438,2021-05-11,First Class,Consumer,Dallas,Central,Office Supplies,Appliances,1371.98,9,0.1,440.68
+US-2021-1439,2021-05-10,First Class,Consumer,Los Angeles,West,Office Supplies,Appliances,782.99,7,0.2,212.69
+US-2021-1440,2021-05-28,Second Class,Corporate,New Orleans,South,Furniture,Tables,7620.93,9,0,440.91
+US-2021-1441,2021-05-21,Standard Class,Home Office,Philadelphia,East,Office Supplies,Storage,239.12,2,0.4,28.7
+US-2021-1442,2021-06-14,Same Day,Corporate,Los Angeles,West,Technology,Machines,350.34,7,0.1,-30.69
+US-2021-1443,2021-06-20,Second Class,Consumer,Philadelphia,East,Technology,Copiers,1205.28,8,0,426.24
+US-2021-1444,2021-06-21,Standard Class,Corporate,Atlanta,South,Office Supplies,Storage,1745.39,9,0.1,640.29
+US-2021-1445,2021-06-13,Same Day,Home Office,Chicago,Central,Furniture,Tables,530.54,1,0,64.14
+US-2021-1446,2021-06-22,Same Day,Home Office,Chicago,Central,Office Supplies,Paper,16.84,1,0.3,1.3
+US-2021-1447,2021-06-06,Second Class,Home Office,New Orleans,South,Office Supplies,Paper,932.12,7,0,108.55
+US-2021-1448,2021-06-11,First Class,Consumer,Los Angeles,West,Furniture,Chairs,6747.24,9,0.3,410.62
+US-2021-1449,2021-06-12,First Class,Corporate,Baltimore,East,Office Supplies,Art,884.31,3,0,114.53
+US-2021-1450,2021-06-20,Standard Class,Consumer,Seattle,West,Furniture,Chairs,4321.53,3,0,497.48
+US-2021-1451,2021-06-17,First Class,Corporate,Columbus,Central,Furniture,Chairs,6296.62,6,0.1,802.22
+US-2021-1452,2021-06-06,First Class,Corporate,Philadelphia,East,Furniture,Chairs,11738.34,9,0,3659.83
+US-2021-1453,2021-06-22,Same Day,Home Office,New York,East,Furniture,Bookcases,7898.2,6,0.1,1214.9
+US-2021-1454,2021-06-24,Second Class,Corporate,Denver,West,Furniture,Furnishings,1891.86,2,0,493.78
+US-2021-1455,2021-06-26,Second Class,Home Office,Nashville,South,Office Supplies,Binders,789.21,5,0.1,-23.24
+US-2021-1456,2021-06-10,Second Class,Corporate,Philadelphia,East,Office Supplies,Binders,2338.0,8,0.3,-74.29
+US-2021-1457,2021-06-27,Second Class,Corporate,Seattle,West,Furniture,Bookcases,4919.14,5,0.3,-168.7
+US-2021-1458,2021-06-14,Second Class,Corporate,Boston,East,Technology,Phones,1086.61,7,0,267.73
+US-2021-1459,2021-06-28,Same Day,Corporate,Baltimore,East,Technology,Machines,2734.8,2,0.2,20.49
+US-2021-1460,2021-06-09,Second Class,Consumer,San Francisco,West,Technology,Accessories,6108.68,4,0,1776.36
+US-2021-1461,2021-06-20,First Class,Home Office,Philadelphia,East,Technology,Accessories,447.19,4,0.3,44.13
+US-2021-1462,2021-06-22,Same Day,Corporate,Chicago,Central,Technology,Phones,5145.24,5,0.4,468.79
+US-2021-1463,2021-06-24,Standard Class,Consumer,Columbus,Central,Furniture,Chairs,5758.67,6,0.4,1892.96
+US-2021-1464,2021-06-06,Second Class,Consumer,New Orleans,South,Furniture,Furnishings,12596.04,8,0.1,1818.41
+US-2021-1465,2021-06-19,First Class,Corporate,Los Angeles,West,Office Supplies,Appliances,233.02,7,0.2,87.8
+US-2021-1466,2021-06-28,Same Day,Home Office,Columbus,Central,Office Supplies,Paper,2506.14,7,0,-53.09
+US-2021-1467,2021-06-20,Standard Class,Home Office,Indianapolis,Central,Furniture,Furnishings,552.42,5,0.4,133.71
+US-2021-1468,2021-06-12,Standard Class,Corporate,Denver,West,Technology,Accessories,9513.0,7,0.4,721.72
+US-2021-1469,2021-06-28,Same Day,Home Office,Los Angeles,West,Office Supplies,Art,293.08,3,0.1,66.8
+US-2021-1470,2021-06-02,Second Class,Corporate,New York,East,Technology,Machines,3183.32,7,0.2,162.01
+US-2021-1471,2021-06-01,Second Class,Corporate,Boston,East,Office Supplies,Binders,118.02,7,0.4,23.42
+US-2021-1472,2021-07-08,Second Class,Home Office,San Francisco,West,Furniture,Chairs,156.53,3,0.4,43.99
+US-2021-1473,2021-07-28,Standard Class,Consumer,New York,East,Office Supplies,Binders,170.06,8,0.4,11.22
+US-2021-1474,2021-07-26,Standard Class,Home Office,Nashville,South,Office Supplies,Paper,3009.64,7,0.1,879.57
+US-2021-1475,2021-07-17,Second Class,Consumer,Seattle,West,Furniture,Chairs,4169.02,6,0.1,1348.51
+US-2021-1476,2021-07-04,First Class,Corporate,Dallas,Central,Furniture,Bookcases,634.76,5,0.3,214.77
+US-2021-1477,2021-07-25,Standard Class,Consumer,Dallas,Central,Furniture,Tables,11477.9,7,0,2097.46
+US-2021-1478,2021-07-09,Same Day,Consumer,Boston,East,Furniture,Chairs,3031.38,6,0,652.27
+US-2021-1479,2021-07-12,First Class,Corporate,Boston,East,Furniture,Furnishings,2529.9,5,0,876.95
+US-2021-1480,2021-07-16,First Class,Consumer,Philadelphia,East,Furniture,Chairs,4573.37,6,0.1,1526.86
+US-2021-1481,2021-07-10,Same Day,Consumer,Los Angeles,West,Furniture,Chairs,7894.26,9,0,-150.92
+US-2021-1482,2021-07-07,First Class,Home Office,Baltimore,East,Office Supplies,Storage,1003.86,10,0.1,382.9
+US-2021-1483,2021-07-11,Same Day,Corporate,Houston,South,Technology,Machines,21642.9,10,0,6638.61
+US-2021-1484,2021-07-26,Second Class,Consumer,Dallas,Central,Technology,Accessories,1781.6,6,0.3,671.32
+US-2021-1485,2021-07-28,Standard Class,Home Office,Houston,South,Technology,Accessories,459.3,1,0.2,139.67
+US-2021-1486,2021-07-10,First Class,Corporate,Nashville,South,Office Supplies,Art,83.97,3,0,6.62
+US-2021-1487,2021-07-04,Standard Class,Home Office,Columbus,Central,Technology,Accessories,5351.17,3,0.4,-161.68
+US-2021-1488,2021-07-20,Standard Class,Consumer,Columbus,Central,Furniture,Bookcases,2738.64,4,0,701.64
+US-2021-1489,2021-07-08,Standard Class,Consumer,Houston,South,Office Supplies,Appliances,3540.19,9,0.1,-324.81
+US-2021-1490,2021-07-20,Standard Class,Corporate,Boston,East,Furniture,Tables,669.93,1,0.1,165.74
+US-2021-1491,2021-07-01,First Class,Consumer,Nashville,South,Furniture,Furnishings,1418.62,7,0,326.3
+US-2021-1492,2021-07-04,Same Day,Consumer,Baltimore,East,Furniture,Furnishings,898.18,1,0.1,146.59
+US-2021-1493,2021-07-15,Second Class,Corporate,San Francisco,West,Technology,Machines,1730.5,1,0,322.85
+US-2021-1494,2021-07-27,Same Day,Corporate,Nashville,South,Furniture,Chairs,621.22,1,0.4,211.46
+US-2021-1495,2021-07-16,Same Day,Corporate,Baltimore,East,Office Supplies,Art,548.54,2,0,102.96
+US-2021-1496,2021-07-16,Second Class,Home Office,Indianapolis,Central,Technology,Accessories,2296.51,1,0,611.91
+US-2021-1497,2021-07-18,Second Class,Corporate,Seattle,West,Office Supplies,Binders,863.33,4,0.2,292.65
+US-2021-1498,2021-07-05,Same Day,Home Office,Indianapolis,Central,Office Supplies,Binders,1744.12,5,0.3,14.85
+US-2021-1499,2021-08-01,Second Class,Corporate,Nashville,South,Furniture,Bookcases,3667.61,6,0.3,285.52
+US-2021-1500,2021-08-19,Same Day,Consumer,Atlanta,South,Technology,Accessories,213.25,1,0.3,70.47
+US-2021-1501,2021-08-10,Standard Class,Consumer,Philadelphia,East,Office Supplies,Appliances,146.28,1,0.1,31.82
+US-2021-1502,2021-08-21,Same Day,Consumer,San Francisco,West,Furniture,Tables,6570.59,7,0.2,305.83
+US-2021-1503,2021-08-07,Second Class,Home Office,Nashville,South,Furniture,Furnishings,2600.58,2,0,139.97
+US-2021-1504,2021-08-15,Same Day,Corporate,Columbus,Central,Office Supplies,Storage,374.3,3,0.2,38.07
+US-2021-1505,2021-08-11,Standard Class,Corporate,Indianapolis,Central,Furniture,Furnishings,2244.93,7,0.3,326.1
+US-2021-1506,2021-08-20,Same Day,Corporate,Columbus,Central,Technology,Machines,15466.4,8,0,6171.86
+US-2021-1507,2021-08-13,First Class,Home Office,Houston,South,Office Supplies,Appliances,1782.83,6,0.4,689.54
+US-2021-1508,2021-08-22,Standard Class,Corporate,Atlanta,South,Furniture,Bookcases,936.0,1,0.4,348.62
+US-2021-1509,2021-08-18,Standard Class,Corporate,Houston,South,Office Supplies,Art,821.18,9,0.1,199.19
+US-2021-1510,2021-08-16,First Class,Home Office,Nashville,South,Technology,Machines,544.77,3,0,108.35
+US-2021-1511,2021-08-24,Second Class,Consumer,Denver,West,Office Supplies,Art,1649.81,4,0.1,-31.23
+US-2021-1512,2021-08-25,Second Class,Home Office,Atlanta,South,Technology,Machines,4716.48,10,0.2,-120.14
+US-2021-1513,2021-08-25,First Class,Consumer,New York,East,Office Supplies,Paper,752.81,3,0.4,184.26
+US-2021-1514,2021-08-08,First Class,Home Office,Nashville,South,Furniture,Chairs,5263.49,8,0.1,294.24
+US-2021-1515,2021-08-20,Same Day,Home Office,Denver,West,Office Supplies,Binders,1904.78,6,0.3,161.11
+US-2021-1516,2021-08-23,Second Class,Home Office,Chicago,Central,Technology,Machines,4846.95,3,0,-112.98
+US-2021-1517,2021-08-01,Second Class,Home Office,Baltimore,East,Office Supplies,Storage,2632.18,9,0.2,988.05
+US-2021-1518,2021-08-14,First Class,Home Office,Boston,East,Technology,Phones,7901.59,7,0.1,-373.96
+US-2021-1519,2021-08-04,Standard Class,Corporate,Nashville,South,Furniture,Furnishings,8556.39,10,0.1,1373.24
+US-2021-1520,2021-08-26,Same Day,Home Office,Atlanta,South,Technology,Copiers,2392.45,5,0,-164.23
+US-2021-1521,2021-08-02,Standard Class,Home Office,Denver,West,Technology,Accessories,909.74,2,0.1,331.65
+US-2021-1522,2021-08-19,Same Day,Corporate,Houston,South,Technology,Machines,5199.2,4,0,1653.98
+US-2021-1523,2021-08-02,Second Class,Corporate,Boston,East,Furniture,Bookcases,1980.09,2,0.1,660.31
+US-2021-1524,2021-09-11,Same Day,Consumer,Boston,East,Furniture,Bookcases,4631.54,4,0.3,1456.2
+US-2021-1525,2021-09-06,Same Day,Consumer,Atlanta,South,Technology,Copiers,13689.04,10,0.2,1577.76
+US-2021-1526,2021-09-22,Standard Class,Corporate,Los Angeles,West,Furniture,Chairs,1016.14,1,0,-48.56
+US-2021-1527,2021-09-22,Same Day,Consumer,Dallas,Central,Furniture,Chairs,1093.2,3,0,120.75
+US-2021-1528,2021-09-01,Second Class,Corporate,New York,East,Furniture,Chairs,876.64,2,0,337.38
+US-2021-1529,2021-09-06,First Class,Home Office,Denver,West,Technology,Accessories,4267.22,5,0.1,260.51
+US-2021-1530,2021-09-20,Standard Class,Corporate,Philadelphia,East,Furniture,Tables,2080.61,10,0.3,285.48
+US-2021-1531,2021-09-22,Second Class,Consumer,Chicago,Central,Furniture,Chairs,2390.42,3,0.1,851.25
+US-2021-1532,2021-09-16,Same Day,Corporate,Boston,East,Office Supplies,Appliances,1385.42,8,0.1,51.54
+US-2021-1533,2021-09-09,Second Class,Consumer,Houston,South,Office Supplies,Binders,396.54,2,0.4,47.52
+US-2021-1534,2021-09-23,Second Class,Consumer,Nashville,South,Furniture,Bookcases,12873.65,9,0.1,3558.54
+US-2021-1535,2021-09-18,Same Day,Corporate,Chicago,Central,Furniture,Bookcases,168.78,2,0,-9.41
+US-2021-1536,2021-09-23,Standard Class,Corporate,Philadelphia,East,Office Supplies,Paper,1934.26,8,0.4,250.02
+US-2021-1537,2021-09-04,Second Class,Home Office,San Francisco,West,Office Supplies,Paper,143.6,5,0.3,50.64
+US-2021-1538,2021-09-23,Second Class,Consumer,Nashville,South,Furniture,Bookcases,542.91,1,0,167.16
+US-2021-1539,2021-09-16,Same Day,Consumer,Atlanta,South,Furniture,Tables,13324.42,9,0.1,147.41
+US-2021-1540,2021-09-23,Same Day,Corporate,San Francisco,West,Technology,Copiers,1153.13,1,0.3,256.46
+US-2021-1541,2021-09-25,Same Day,Home Office,Houston,South,Office Supplies,Art,878.56,4,0.2,11.57
+US-2021-1542,2021-09-11,Same Day,Consumer,Los Angeles,West,Office Supplies,Appliances,139.32,6,0.1,8.03
+US-2021-1543,2021-09-04,Second Class,Corporate,Baltimore,East,Office Supplies,Art,1927.8,5,0,24.35
+US-2021-1544,2021-09-20,Standard Class,Corporate,New York,East,Technology,Machines,2260.77,1,0.2,79.31
+US-2021-1545,2021-09-08,Standard Class,Home Office,New York,East,Furniture,Tables,977.4,5,0.1,258.87
+US-2021-1546,2021-09-10,Standard Class,Consumer,New Orleans,South,Technology,Machines,10950.72,10,0.4,-964.39
+US-2021-1547,2021-09-09,Second Class,Corporate,New York,East,Technology,Machines,5232.34,3,0.3,-25.52
+US-2021-1548,2021-09-20,Second Class,Consumer,Denver,West,Furniture,Chairs,6561.31,5,0.1,-593.27
+US-2021-1549,2021-09-09,Standard Class,Corporate,Seattle,West,Office Supplies,Storage,1064.07,7,0,166.45
+US-2021-1550,2021-09-17,First Class,Corporate,Columbus,Central,Office Supplies,Storage,4403.79,10,0.1,73.53
+US-2021-1551,2021-09-09,First Class,Home Office,San Francisco,West,Technology,Copiers,507.79,2,0.3,-0.73
+US-2021-1552,2021-10-04,Second Class,Home Office,Nashville,South,Technology,Copiers,13326.64,7,0.1,3832.23
+US-2021-1553,2021-10-18,Same Day,Home Office,Philadelphia,East,Technology,Machines,5561.72,2,0,-468.42
+US-2021-1554,2021-10-18,Same Day,Corporate,Boston,East,Technology,Phones,901.32,5,0.4,120.25
+US-2021-1555,2021-10-19,Second Class,Consumer,Baltimore,East,Office Supplies,Appliances,550.56,9,0.1,214.71
+US-2021-1556,2021-10-05,Same Day,Corporate,Nashville,South,Office Supplies,Paper,1703.1,5,0,158.46
+US-2021-1557,2021-10-22,First Class,Corporate,Houston,South,Furniture,Furnishings,286.66,1,0.2,37.45
+US-2021-1558,2021-10-08,Standard Class,Corporate,Columbus,Central,Office Supplies,Paper,1836.75,5,0,698.42
+US-2021-1559,2021-10-08,First Class,Home Office,Philadelphia,East,Furniture,Furnishings,4070.52,3,0.1,617.29
+US-2021-1560,2021-10-09,First Class,Corporate,Baltimore,East,Furniture,Bookcases,5829.73,4,0.1,-17.53
+US-2021-1561,2021-10-19,First Class,Home Office,Philadelphia,East,Technology,Phones,1890.29,1,0,26.25
+US-2021-1562,2021-10-22,First Class,Consumer,Dallas,Central,Furniture,Tables,713.39,1,0.4,141.16
+US-2021-1563,2021-10-11,Second Class,Consumer,Dallas,Central,Furniture,Tables,1047.87,5,0.4,55.57
+US-2021-1564,2021-10-07,First Class,Home Office,Nashville,South,Technology,Copiers,6386.61,3,0.1,1797.14
+US-2021-1565,2021-10-09,Standard Class,Home Office,Los Angeles,West,Technology,Copiers,10021.33,7,0.3,1247.29
+US-2021-1566,2021-10-03,Standard Class,Corporate,Dallas,Central,Technology,Phones,12552.2,10,0,-1080.88
+US-2021-1567,2021-10-23,Second Class,Consumer,Dallas,Central,Technology,Phones,14938.91,7,0,1338.26
+US-2021-1568,2021-10-24,First Class,Corporate,Los Angeles,West,Office Supplies,Appliances,2310.45,7,0.2,720.75
+US-2021-1569,2021-10-19,First Class,Consumer,Indianapolis,Central,Office Supplies,Binders,326.66,5,0.1,74.0
+US-2021-1570,2021-10-26,Second Class,Consumer,Dallas,Central,Technology,Copiers,219.54,3,0,51.0
+US-2021-1571,2021-10-27,First Class,Consumer,Denver,West,Technology,Machines,7414.02,4,0.1,1445.76
+US-2021-1572,2021-10-17,Same Day,Corporate,Los Angeles,West,Technology,Copiers,8410.58,8,0.3,2114.1
+US-2021-1573,2021-10-18,Second Class,Consumer,Denver,West,Office Supplies,Storage,322.92,2,0,71.64
+US-2021-1574,2021-10-20,Standard Class,Corporate,San Francisco,West,Technology,Accessories,12744.96,8,0,-1108.9
+US-2021-1575,2021-10-03,Same Day,Home Office,Indianapolis,Central,Technology,Copiers,4558.56,6,0.2,280.49
+US-2021-1576,2021-10-05,First Class,Consumer,New York,East,Office Supplies,Storage,2076.06,7,0,825.73
+US-2021-1577,2021-10-02,Second Class,Corporate,Indianapolis,Central,Furniture,Chairs,3994.93,5,0.3,367.67
+US-2021-1578,2021-11-28,Second Class,Home Office,Boston,East,Technology,Copiers,14231.7,6,0,-837.92
+US-2021-1579,2021-11-27,Second Class,Consumer,Dallas,Central,Furniture,Bookcases,5413.14,5,0.1,1231.43
+US-2021-1580,2021-11-22,First Class,Corporate,Nashville,South,Office Supplies,Appliances,1323.84,3,0,42.35
+US-2021-1581,2021-11-11,Standard Class,Consumer,Atlanta,South,Office Supplies,Appliances,675.44,4,0,200.88
+US-2021-1582,2021-11-21,Same Day,Consumer,Atlanta,South,Furniture,Tables,9926.8,10,0,1217.12
+US-2021-1583,2021-11-02,Standard Class,Corporate,Dallas,Central,Office Supplies,Art,687.12,8,0.3,119.25
+US-2021-1584,2021-11-05,Standard Class,Home Office,Atlanta,South,Office Supplies,Appliances,1250.75,4,0.1,276.31
+US-2021-1585,2021-11-07,Second Class,Consumer,New York,East,Furniture,Chairs,1762.34,1,0.1,339.1
+US-2021-1586,2021-11-21,Same Day,Consumer,Boston,East,Furniture,Bookcases,5905.2,7,0,499.55
+US-2021-1587,2021-11-04,First Class,Corporate,Philadelphia,East,Office Supplies,Storage,27.7,1,0.1,1.35
+US-2021-1588,2021-11-04,Same Day,Consumer,Los Angeles,West,Technology,Accessories,8683.42,7,0.1,1955.31
+US-2021-1589,2021-11-16,Second Class,Consumer,New York,East,Technology,Copiers,23749.65,9,0,6684.49
+US-2021-1590,2021-11-14,Standard Class,Home Office,Columbus,Central,Technology,Phones,2303.32,9,0.1,695.29
+US-2021-1591,2021-11-23,First Class,Consumer,Indianapolis,Central,Technology,Phones,17871.35,9,0.1,1926.02
+US-2021-1592,2021-11-21,Second Class,Home Office,Los Angeles,West,Furniture,Furnishings,2906.78,2,0,14.7
+US-2021-1593,2021-11-07,Standard Class,Home Office,Atlanta,South,Furniture,Bookcases,4294.51,8,0.4,900.85
+US-2021-1594,2021-11-18,First Class,Consumer,New Orleans,South,Furniture,Bookcases,6729.8,5,0.1,-560.43
+US-2021-1595,2021-11-17,Standard Class,Consumer,Los Angeles,West,Furniture,Bookcases,176.42,1,0.2,64.64
+US-2021-1596,2021-11-20,Standard Class,Consumer,Philadelphia,East,Office Supplies,Binders,402.82,7,0.1,-34.16
+US-2021-1597,2021-11-11,Standard Class,Consumer,Denver,West,Furniture,Chairs,5250.28,5,0.1,1786.86
+US-2021-1598,2021-11-09,Same Day,Corporate,Boston,East,Furniture,Tables,973.99,1,0,47.24
+US-2021-1599,2021-11-08,Same Day,Consumer,Indianapolis,Central,Furniture,Bookcases,12417.86,10,0.3,4347.49
+US-2021-1600,2021-11-01,Same Day,Corporate,New York,East,Technology,Copiers,3379.1,6,0.1,1149.54
+US-2021-1601,2021-11-28,First Class,Corporate,New Orleans,South,Furniture,Tables,1384.78,2,0,461.79
+US-2021-1602,2021-11-11,First Class,Home Office,Los Angeles,West,Technology,Machines,3501.3,3,0,-321.05
+US-2021-1603,2021-11-19,Same Day,Home Office,New Orleans,South,Technology,Copiers,8208.12,4,0.3,-571.62
+US-2021-1604,2021-11-05,Standard Class,Corporate,Nashville,South,Technology,Phones,9595.95,5,0,2091.95
+US-2021-1605,2021-11-01,First Class,Consumer,Dallas,Central,Technology,Machines,22583.3,10,0,3362.34
+US-2021-1606,2021-11-02,Standard Class,Home Office,Chicago,Central,Technology,Machines,9259.45,6,0.3,2974.29
+US-2021-1607,2021-12-05,First Class,Corporate,Columbus,Central,Office Supplies,Appliances,321.79,6,0.1,22.55
+US-2021-1608,2021-12-08,Standard Class,Consumer,New Orleans,South,Furniture,Bookcases,3230.78,5,0.1,1102.17
+US-2021-1609,2021-12-01,Second Class,Corporate,Chicago,Central,Technology,Copiers,5100.95,3,0.1,1863.94
+US-2021-1610,2021-12-08,First Class,Consumer,Atlanta,South,Technology,Phones,22792.56,8,0,837.53
+US-2021-1611,2021-12-03,Standard Class,Consumer,Dallas,Central,Furniture,Bookcases,3523.27,5,0.3,1047.58
+US-2021-1612,2021-12-14,Second Class,Corporate,Denver,West,Technology,Machines,2309.07,9,0.1,758.95
+US-2021-1613,2021-12-25,Same Day,Corporate,Boston,East,Technology,Machines,15883.92,6,0,470.77
+US-2021-1614,2021-12-25,First Class,Consumer,Seattle,West,Technology,Copiers,3959.28,2,0.1,-68.77
+US-2021-1615,2021-12-06,Standard Class,Home Office,Columbus,Central,Furniture,Chairs,5061.28,6,0.4,217.0
+US-2021-1616,2021-12-02,Same Day,Home Office,Houston,South,Technology,Accessories,861.28,8,0,298.51
+US-2021-1617,2021-12-27,First Class,Corporate,Indianapolis,Central,Office Supplies,Appliances,209.66,3,0.4,25.83
+US-2021-1618,2021-12-23,Same Day,Corporate,Philadelphia,East,Technology,Copiers,4802.9,5,0,-204.7
+US-2021-1619,2021-12-06,First Class,Consumer,Nashville,South,Furniture,Furnishings,1684.47,1,0,-49.08
+US-2021-1620,2021-12-11,Standard Class,Home Office,Philadelphia,East,Furniture,Furnishings,1303.18,2,0.2,-26.49
+US-2021-1621,2021-12-16,Standard Class,Corporate,Denver,West,Furniture,Bookcases,3291.15,5,0,634.04
+US-2021-1622,2021-12-10,Standard Class,Corporate,Nashville,South,Office Supplies,Appliances,1147.72,5,0.2,194.94
+US-2021-1623,2021-12-11,Same Day,Consumer,New York,East,Office Supplies,Paper,133.41,1,0.1,40.52
+US-2021-1624,2021-12-14,First Class,Corporate,Dallas,Central,Technology,Phones,604.46,2,0.1,81.19
+US-2021-1625,2021-12-08,Second Class,Home Office,New Orleans,South,Technology,Copiers,10391.65,9,0.1,1960.81
+US-2021-1626,2021-12-04,First Class,Consumer,Columbus,Central,Technology,Machines,4282.9,10,0,-151.62
+US-2021-1627,2021-12-20,Same Day,Corporate,Boston,East,Furniture,Tables,15929.2,10,0.2,2627.74
+US-2021-1628,2021-12-02,Standard Class,Consumer,Los Angeles,West,Furniture,Tables,1984.07,4,0.1,394.83
+US-2021-1629,2021-12-06,Second Class,Home Office,Indianapolis,Central,Furniture,Chairs,14199.44,8,0,756.57
+US-2021-1630,2021-12-19,Same Day,Consumer,Baltimore,East,Office Supplies,Art,527.24,3,0.4,48.68
+US-2021-1631,2021-12-27,First Class,Home Office,Denver,West,Technology,Phones,1300.49,3,0.2,482.92
+US-2021-1632,2021-12-24,Same Day,Consumer,Atlanta,South,Office Supplies,Appliances,1499.58,5,0.1,153.78
+US-2022-1633,2022-01-21,First Class,Home Office,Indianapolis,Central,Office Supplies,Art,192.51,1,0.2,13.17
+US-2022-1634,2022-01-22,Standard Class,Consumer,Dallas,Central,Office Supplies,Binders,63.41,2,0.1,19.89
+US-2022-1635,2022-01-24,Second Class,Home Office,New York,East,Office Supplies,Paper,137.59,7,0.1,-7.95
+US-2022-1636,2022-01-25,Standard Class,Home Office,Denver,West,Furniture,Chairs,7028.8,10,0.2,-433.9
+US-2022-1637,2022-01-16,Standard Class,Corporate,Boston,East,Furniture,Furnishings,11243.71,8,0.2,280.98
+US-2022-1638,2022-01-18,Standard Class,Home Office,Houston,South,Furniture,Furnishings,13272.96,8,0,3873.12
+US-2022-1639,2022-01-13,First Class,Consumer,San Francisco,West,Furniture,Bookcases,331.08,3,0,53.74
+US-2022-1640,2022-01-12,Second Class,Home Office,Nashville,South,Furniture,Furnishings,5081.97,3,0.1,687.81
+US-2022-1641,2022-01-14,Second Class,Corporate,San Francisco,West,Office Supplies,Storage,851.2,7,0.2,16.41
+US-2022-1642,2022-01-07,Same Day,Consumer,Boston,East,Technology,Accessories,424.55,1,0.2,98.63
+US-2022-1643,2022-01-17,Second Class,Consumer,Atlanta,South,Office Supplies,Binders,2870.07,9,0.1,243.22
+US-2022-1644,2022-01-02,Second Class,Home Office,Atlanta,South,Office Supplies,Appliances,793.98,3,0,158.14
+US-2022-1645,2022-01-15,Standard Class,Corporate,Boston,East,Office Supplies,Appliances,76.61,1,0.3,12.52
+US-2022-1646,2022-01-07,Standard Class,Consumer,New York,East,Technology,Phones,3528.17,3,0.2,452.14
+US-2022-1647,2022-01-18,Second Class,Consumer,New Orleans,South,Technology,Machines,3486.94,6,0.1,233.93
+US-2022-1648,2022-01-10,Second Class,Consumer,San Francisco,West,Technology,Phones,881.5,1,0.4,-1.23
+US-2022-1649,2022-01-20,Standard Class,Consumer,Baltimore,East,Technology,Copiers,1190.25,1,0,-72.73
+US-2022-1650,2022-01-22,First Class,Corporate,Chicago,Central,Furniture,Furnishings,405.91,1,0.4,65.49
+US-2022-1651,2022-02-06,Second Class,Home Office,Nashville,South,Technology,Phones,1393.42,1,0.3,103.56
+US-2022-1652,2022-02-23,Standard Class,Home Office,Dallas,Central,Furniture,Tables,7885.44,8,0.4,-246.51
+US-2022-1653,2022-02-07,First Class,Home Office,Philadelphia,East,Furniture,Tables,1020.53,8,0.4,74.1
+US-2022-1654,2022-02-09,First Class,Home Office,Baltimore,East,Furniture,Chairs,9175.05,5,0,3280.28
+US-2022-1655,2022-02-17,First Class,Home Office,Dallas,Central,Furniture,Furnishings,3232.71,7,0.2,284.79
+US-2022-1656,2022-02-20,Same Day,Corporate,Dallas,Central,Office Supplies,Appliances,1699.32,4,0,-132.5
+US-2022-1657,2022-02-28,Same Day,Corporate,Dallas,Central,Technology,Accessories,2539.05,1,0,912.74
+US-2022-1658,2022-02-23,Second Class,Home Office,Columbus,Central,Office Supplies,Storage,85.86,6,0,15.62
+US-2022-1659,2022-02-12,Second Class,Corporate,Seattle,West,Office Supplies,Art,122.6,1,0,7.04
+US-2022-1660,2022-02-09,Standard Class,Corporate,Los Angeles,West,Technology,Copiers,11015.34,6,0.3,1126.68
+US-2022-1661,2022-02-07,Second Class,Consumer,Boston,East,Technology,Accessories,14480.48,9,0.4,2502.94
+US-2022-1662,2022-02-20,Second Class,Corporate,Houston,South,Technology,Machines,9971.52,6,0,-231.38
+US-2022-1663,2022-02-01,Standard Class,Home Office,Columbus,Central,Office Supplies,Paper,108.74,1,0.2,18.43
+US-2022-1664,2022-02-07,Second Class,Corporate,Houston,South,Technology,Accessories,10066.18,8,0.1,3406.21
+US-2022-1665,2022-02-04,Standard Class,Consumer,Denver,West,Office Supplies,Binders,2010.8,5,0,138.53
+US-2022-1666,2022-02-25,Second Class,Home Office,Seattle,West,Furniture,Tables,5047.04,4,0.2,1666.29
+US-2022-1667,2022-02-03,First Class,Consumer,Atlanta,South,Furniture,Bookcases,2883.55,2,0.1,1011.01
+US-2022-1668,2022-02-20,Second Class,Corporate,Nashville,South,Office Supplies,Storage,1334.52,4,0,222.98
+US-2022-1669,2022-03-12,Same Day,Home Office,Denver,West,Furniture,Bookcases,13795.47,9,0,2038.69
+US-2022-1670,2022-03-20,Standard Class,Corporate,New York,East,Office Supplies,Appliances,78.68,1,0.4,2.52
+US-2022-1671,2022-03-12,Same Day,Corporate,Los Angeles,West,Office Supplies,Appliances,2555.04,10,0.4,741.06
+US-2022-1672,2022-03-09,First Class,Corporate,Chicago,Central,Technology,Machines,14916.18,6,0,-586.95
+US-2022-1673,2022-03-06,Standard Class,Consumer,Columbus,Central,Furniture,Bookcases,7496.31,7,0.1,2740.83
+US-2022-1674,2022-03-21,Second Class,Home Office,Denver,West,Furniture,Furnishings,830.7,4,0.1,243.78
+US-2022-1675,2022-03-07,Second Class,Consumer,Chicago,Central,Office Supplies,Art,1840.72,8,0,251.48
+US-2022-1676,2022-03-06,First Class,Home Office,Dallas,Central,Office Supplies,Storage,943.45,7,0.3,-77.44
+US-2022-1677,2022-03-18,Same Day,Corporate,Dallas,Central,Office Supplies,Paper,2347.68,8,0,462.27
+US-2022-1678,2022-03-13,Same Day,Consumer,Nashville,South,Furniture,Furnishings,5277.84,7,0.3,244.01
+US-2022-1679,2022-03-05,Second Class,Home Office,Boston,East,Furniture,Furnishings,2684.12,3,0.1,726.37
+US-2022-1680,2022-03-20,First Class,Corporate,Los Angeles,West,Office Supplies,Art,627.37,4,0.3,84.64
+US-2022-1681,2022-03-02,Same Day,Corporate,Indianapolis,Central,Office Supplies,Binders,2866.46,8,0.1,324.83
+US-2022-1682,2022-03-03,Standard Class,Consumer,Chicago,Central,Office Supplies,Art,960.74,8,0.3,365.02
+US-2022-1683,2022-03-17,Standard Class,Consumer,San Francisco,West,Furniture,Tables,3504.6,6,0,601.57
+US-2022-1684,2022-03-10,Second Class,Corporate,Chicago,Central,Technology,Phones,2373.5,7,0.4,-166.02
+US-2022-1685,2022-03-12,First Class,Home Office,San Francisco,West,Office Supplies,Appliances,1598.02,8,0.4,98.87
+US-2022-1686,2022-03-15,Standard Class,Home Office,Atlanta,South,Furniture,Furnishings,7189.3,6,0.2,2320.36
+US-2022-1687,2022-03-26,First Class,Home Office,New York,East,Office Supplies,Storage,116.79,1,0.4,1.24
+US-2022-1688,2022-03-17,First Class,Consumer,Chicago,Central,Furniture,Chairs,6322.14,4,0.2,511.92
+US-2022-1689,2022-03-12,Second Class,Home Office,Dallas,Central,Furniture,Chairs,11543.47,9,0.2,3903.13
+US-2022-1690,2022-03-17,Standard Class,Corporate,Houston,South,Furniture,Furnishings,5458.8,7,0.3,1329.08
+US-2022-1691,2022-03-04,Standard Class,Consumer,New Orleans,South,Technology,Phones,7015.42,8,0.2,2419.53
+US-2022-1692,2022-03-06,Same Day,Corporate,Seattle,West,Technology,Copiers,1055.13,1,0,286.04
+US-2022-1693,2022-03-16,Standard Class,Home Office,Dallas,Central,Office Supplies,Appliances,1771.52,6,0.1,400.97
+US-2022-1694,2022-03-26,Same Day,Corporate,Philadelphia,East,Technology,Copiers,3302.24,4,0,285.68
+US-2022-1695,2022-03-10,Second Class,Home Office,Denver,West,Furniture,Chairs,6940.16,10,0.2,1445.4
+US-2022-1696,2022-03-13,Second Class,Consumer,Houston,South,Office Supplies,Storage,1404.56,10,0.2,123.5
+US-2022-1697,2022-03-25,Same Day,Consumer,Denver,West,Office Supplies,Paper,1338.17,6,0.1,238.7
+US-2022-1698,2022-04-06,Same Day,Corporate,Baltimore,East,Furniture,Tables,1368.76,5,0.2,-48.78
+US-2022-1699,2022-04-14,Same Day,Home Office,Houston,South,Furniture,Bookcases,3368.4,5,0.3,1214.81
+US-2022-1700,2022-04-22,First Class,Home Office,New Orleans,South,Technology,Accessories,252.06,5,0.4,100.28
+US-2022-1701,2022-04-03,Same Day,Consumer,Seattle,West,Technology,Accessories,6327.6,10,0.4,-181.23
+US-2022-1702,2022-04-22,Same Day,Home Office,Philadelphia,East,Technology,Phones,2798.93,9,0.4,1018.3
+US-2022-1703,2022-04-04,Second Class,Consumer,Columbus,Central,Furniture,Bookcases,544.88,10,0.2,-54.22
+US-2022-1704,2022-04-26,Second Class,Home Office,Boston,East,Office Supplies,Appliances,162.04,7,0.1,3.72
+US-2022-1705,2022-04-09,Standard Class,Consumer,Boston,East,Furniture,Furnishings,3468.36,3,0.3,960.44
+US-2022-1706,2022-04-07,Standard Class,Consumer,New York,East,Technology,Machines,5102.7,6,0,558.45
+US-2022-1707,2022-04-21,Second Class,Corporate,New York,East,Furniture,Tables,8148.41,7,0.3,2023.69
+US-2022-1708,2022-04-19,Second Class,Home Office,Baltimore,East,Furniture,Tables,959.86,4,0.4,155.95
+US-2022-1709,2022-04-28,Standard Class,Corporate,Baltimore,East,Office Supplies,Storage,2830.65,9,0.3,345.22
+US-2022-1710,2022-04-12,Standard Class,Corporate,Philadelphia,East,Technology,Phones,2129.07,1,0.2,-18.54
+US-2022-1711,2022-04-04,First Class,Corporate,New York,East,Office Supplies,Paper,1730.16,6,0,577.43
+US-2022-1712,2022-04-18,First Class,Consumer,Houston,South,Technology,Copiers,9047.28,6,0,2586.75
+US-2022-1713,2022-04-12,Standard Class,Home Office,Atlanta,South,Technology,Machines,860.02,7,0,67.29
+US-2022-1714,2022-04-14,Same Day,Consumer,Philadelphia,East,Office Supplies,Paper,3488.76,9,0,80.8
+US-2022-1715,2022-04-05,Standard Class,Home Office,New York,East,Office Supplies,Storage,4949.4,10,0,-483.5
+US-2022-1716,2022-04-03,Second Class,Home Office,Philadelphia,East,Technology,Accessories,1819.56,3,0,4.13
+US-2022-1717,2022-04-17,Same Day,Corporate,Baltimore,East,Furniture,Tables,4493.02,9,0.4,1110.52
+US-2022-1718,2022-04-15,Standard Class,Corporate,Philadelphia,East,Furniture,Furnishings,2562.95,3,0.4,847.66
+US-2022-1719,2022-04-06,Same Day,Home Office,Nashville,South,Technology,Phones,17302.32,7,0,1599.57
+US-2022-1720,2022-04-10,Same Day,Home Office,Baltimore,East,Technology,Phones,19695.97,7,0,1476.18
+US-2022-1721,2022-04-27,Second Class,Corporate,Dallas,Central,Technology,Copiers,7822.66,8,0.1,-676.63
+US-2022-1722,2022-04-07,Same Day,Corporate,Denver,West,Technology,Copiers,6641.05,5,0,-582.43
+US-2022-1723,2022-04-18,Second Class,Consumer,Los Angeles,West,Furniture,Furnishings,1747.52,1,0,425.69
+US-2022-1724,2022-04-09,Second Class,Home Office,Nashville,South,Technology,Machines,6379.72,3,0.1,189.83
+US-2022-1725,2022-04-28,First Class,Home Office,Philadelphia,East,Technology,Accessories,10426.69,7,0.1,236.49
+US-2022-1726,2022-04-09,Second Class,Consumer,Baltimore,East,Technology,Accessories,3257.76,4,0,527.15
+US-2022-1727,2022-04-18,First Class,Home Office,Columbus,Central,Technology,Copiers,9192.67,9,0.2,1046.92
+US-2022-1728,2022-05-20,Same Day,Corporate,Nashville,South,Office Supplies,Storage,5.46,1,0.2,1.41
+US-2022-1729,2022-05-25,Second Class,Consumer,Los Angeles,West,Office Supplies,Storage,839.88,3,0,-76.38
+US-2022-1730,2022-05-20,First Class,Corporate,San Francisco,West,Technology,Machines,6349.99,5,0.1,325.59
+US-2022-1731,2022-05-13,Same Day,Consumer,Dallas,Central,Office Supplies,Art,3931.36,8,0,851.31
+US-2022-1732,2022-05-27,Second Class,Corporate,Chicago,Central,Technology,Phones,8346.6,8,0.1,1851.49
+US-2022-1733,2022-05-25,Standard Class,Consumer,Denver,West,Office Supplies,Appliances,3067.02,9,0,-106.48
+US-2022-1734,2022-05-07,Same Day,Home Office,Chicago,Central,Furniture,Chairs,13455.65,9,0.2,3118.4
+US-2022-1735,2022-05-25,Second Class,Corporate,Atlanta,South,Furniture,Tables,7154.23,5,0.1,-610.33
+US-2022-1736,2022-05-02,Standard Class,Consumer,Houston,South,Office Supplies,Binders,227.26,8,0.2,81.5
+US-2022-1737,2022-05-05,Standard Class,Consumer,Houston,South,Office Supplies,Binders,1007.64,9,0.1,-71.18
+US-2022-1738,2022-05-25,Second Class,Consumer,New Orleans,South,Technology,Accessories,4288.75,2,0.2,1026.64
+US-2022-1739,2022-05-28,First Class,Consumer,Columbus,Central,Furniture,Bookcases,8297.86,8,0.3,1914.84
+US-2022-1740,2022-05-16,Standard Class,Home Office,Chicago,Central,Furniture,Tables,500.16,1,0,158.97
+US-2022-1741,2022-05-06,First Class,Corporate,Dallas,Central,Technology,Copiers,1789.27,1,0.1,325.75
+US-2022-1742,2022-05-21,First Class,Corporate,Boston,East,Office Supplies,Binders,668.19,2,0.3,255.76
+US-2022-1743,2022-05-25,Same Day,Home Office,Philadelphia,East,Technology,Copiers,6672.04,7,0.3,179.16
+US-2022-1744,2022-05-01,Standard Class,Consumer,Chicago,Central,Furniture,Bookcases,3301.56,9,0.1,-271.87
+US-2022-1745,2022-05-18,First Class,Corporate,Seattle,West,Technology,Accessories,225.95,1,0.1,50.43
+US-2022-1746,2022-05-19,Same Day,Corporate,Dallas,Central,Furniture,Furnishings,3689.57,3,0.3,740.84
+US-2022-1747,2022-05-07,Second Class,Corporate,New Orleans,South,Furniture,Chairs,5120.37,9,0,1314.78
+US-2022-1748,2022-05-16,Standard Class,Home Office,Columbus,Central,Technology,Machines,17199.32,7,0.1,6142.44
+US-2022-1749,2022-05-21,Standard Class,Corporate,Atlanta,South,Office Supplies,Binders,25.41,5,0.3,4.11
+US-2022-1750,2022-05-21,Standard Class,Home Office,Columbus,Central,Office Supplies,Art,1188.83,6,0.4,368.56
+US-2022-1751,2022-06-28,First Class,Consumer,New York,East,Furniture,Furnishings,13232.45,8,0.1,546.09
+US-2022-1752,2022-06-25,Standard Class,Corporate,New Orleans,South,Furniture,Tables,8692.8,10,0.2,129.3
+US-2022-1753,2022-06-13,Second Class,Corporate,New Orleans,South,Furniture,Chairs,699.5,2,0,264.6
+US-2022-1754,2022-06-13,First Class,Corporate,San Francisco,West,Technology,Phones,5798.74,4,0.1,376.85
+US-2022-1755,2022-06-07,Same Day,Home Office,Columbus,Central,Furniture,Furnishings,6409.68,6,0,1667.74
+US-2022-1756,2022-06-19,First Class,Corporate,Chicago,Central,Technology,Phones,293.52,8,0,6.43
+US-2022-1757,2022-06-05,Same Day,Consumer,Dallas,Central,Furniture,Bookcases,2295.16,2,0.3,10.96
+US-2022-1758,2022-06-07,Second Class,Home Office,Baltimore,East,Office Supplies,Appliances,751.38,2,0,119.78
+US-2022-1759,2022-06-14,Standard Class,Consumer,Indianapolis,Central,Office Supplies,Storage,1295.34,3,0,321.88
+US-2022-1760,2022-06-26,Same Day,Consumer,Denver,West,Office Supplies,Binders,3424.24,8,0,1245.17
+US-2022-1761,2022-06-04,Same Day,Home Office,New York,East,Technology,Phones,7320.32,4,0.3,-44.16
+US-2022-1762,2022-06-13,Standard Class,Consumer,Los Angeles,West,Office Supplies,Paper,472.88,1,0,38.47
+US-2022-1763,2022-06-27,Standard Class,Home Office,Seattle,West,Furniture,Tables,8952.26,8,0.2,71.28
+US-2022-1764,2022-06-07,Same Day,Corporate,Philadelphia,East,Office Supplies,Appliances,655.04,5,0.2,244.78
+US-2022-1765,2022-06-14,Standard Class,Home Office,Nashville,South,Furniture,Chairs,5392.76,4,0.1,1986.03
+US-2022-1766,2022-06-10,Standard Class,Consumer,New York,East,Furniture,Furnishings,569.66,1,0.3,-27.92
+US-2022-1767,2022-06-08,Standard Class,Consumer,San Francisco,West,Technology,Accessories,2959.22,2,0,1136.65
+US-2022-1768,2022-06-24,Standard Class,Corporate,Columbus,Central,Furniture,Tables,3752.09,4,0.4,1232.03
+US-2022-1769,2022-07-13,Second Class,Home Office,Denver,West,Technology,Copiers,7596.96,6,0,-732.25
+US-2022-1770,2022-07-01,Same Day,Corporate,Dallas,Central,Technology,Machines,18012.69,9,0,1952.0
+US-2022-1771,2022-07-07,Second Class,Corporate,Dallas,Central,Furniture,Chairs,5566.64,6,0.3,1322.89
+US-2022-1772,2022-07-26,Second Class,Home Office,Chicago,Central,Furniture,Furnishings,13963.41,10,0.1,3785.76
+US-2022-1773,2022-07-06,First Class,Consumer,New Orleans,South,Technology,Machines,7113.31,9,0.2,2777.7
+US-2022-1774,2022-07-28,First Class,Home Office,Boston,East,Furniture,Bookcases,5470.0,4,0,345.09
+US-2022-1775,2022-07-27,Standard Class,Home Office,Columbus,Central,Office Supplies,Binders,234.85,5,0,28.16
+US-2022-1776,2022-07-18,First Class,Home Office,Philadelphia,East,Furniture,Tables,3779.96,2,0,627.65
+US-2022-1777,2022-07-09,Same Day,Home Office,Dallas,Central,Furniture,Chairs,15846.3,10,0,5006.47
+US-2022-1778,2022-07-13,Same Day,Corporate,Dallas,Central,Office Supplies,Storage,1133.73,9,0,53.62
+US-2022-1779,2022-07-08,First Class,Consumer,Dallas,Central,Technology,Phones,4854.09,3,0.1,73.91
+US-2022-1780,2022-07-22,First Class,Consumer,Philadelphia,East,Office Supplies,Binders,519.06,2,0.4,35.67
+US-2022-1781,2022-07-14,Second Class,Home Office,Indianapolis,Central,Furniture,Bookcases,143.64,2,0.1,4.25
+US-2022-1782,2022-07-04,Same Day,Home Office,Indianapolis,Central,Office Supplies,Art,485.04,2,0.3,60.57
+US-2022-1783,2022-07-20,Second Class,Home Office,Denver,West,Technology,Phones,5376.15,2,0.1,659.63
+US-2022-1784,2022-07-10,First Class,Corporate,Seattle,West,Technology,Accessories,3956.49,9,0,58.93
+US-2022-1785,2022-07-10,Same Day,Consumer,Houston,South,Technology,Phones,3660.26,5,0.3,923.52
+US-2022-1786,2022-07-19,Second Class,Consumer,Houston,South,Furniture,Chairs,4200.9,9,0.1,1483.35
+US-2022-1787,2022-07-26,Second Class,Corporate,Boston,East,Technology,Phones,12268.06,7,0,1515.42
+US-2022-1788,2022-07-07,Same Day,Consumer,Denver,West,Technology,Accessories,3563.3,6,0.1,1030.38
+US-2022-1789,2022-07-17,Second Class,Corporate,Baltimore,East,Furniture,Bookcases,583.74,1,0,17.79
+US-2022-1790,2022-07-09,Standard Class,Home Office,Baltimore,East,Office Supplies,Paper,2038.41,9,0,492.6
+US-2022-1791,2022-07-19,First Class,Consumer,Boston,East,Technology,Machines,1776.21,3,0,-149.89
+US-2022-1792,2022-07-14,Second Class,Home Office,Seattle,West,Office Supplies,Paper,2250.5,5,0,717.95
+US-2022-1793,2022-08-17,First Class,Home Office,Houston,South,Furniture,Bookcases,2324.7,4,0.1,815.25
+US-2022-1794,2022-08-15,Same Day,Corporate,New Orleans,South,Furniture,Chairs,3176.04,10,0.3,-278.79
+US-2022-1795,2022-08-21,Second Class,Home Office,Baltimore,East,Office Supplies,Art,1617.02,8,0.4,-90.02
+US-2022-1796,2022-08-11,Same Day,Consumer,Atlanta,South,Office Supplies,Binders,64.93,2,0.3,16.06
+US-2022-1797,2022-08-18,First Class,Corporate,Philadelphia,East,Technology,Accessories,9382.5,10,0,3499.67
+US-2022-1798,2022-08-01,First Class,Consumer,Dallas,Central,Technology,Machines,4430.05,4,0.1,292.33
+US-2022-1799,2022-08-27,Same Day,Corporate,Baltimore,East,Technology,Accessories,16974.15,9,0.3,6050.45
+US-2022-1800,2022-08-06,Same Day,Consumer,San Francisco,West,Technology,Copiers,263.47,1,0.1,14.34
+US-2022-1801,2022-08-20,Second Class,Corporate,New York,East,Furniture,Furnishings,17838.9,10,0,6332.66
+US-2022-1802,2022-08-07,Standard Class,Home Office,Boston,East,Technology,Machines,14576.31,7,0.1,-895.51
+US-2022-1803,2022-08-16,Same Day,Home Office,Baltimore,East,Technology,Phones,14885.91,6,0.1,3054.35
+US-2022-1804,2022-08-20,Standard Class,Consumer,New York,East,Office Supplies,Art,1330.98,10,0.4,25.1
+US-2022-1805,2022-08-22,Second Class,Corporate,Baltimore,East,Technology,Copiers,20106.65,8,0.1,-1767.71
+US-2022-1806,2022-08-23,Standard Class,Home Office,Dallas,Central,Office Supplies,Binders,1007.4,5,0.3,-35.81
+US-2022-1807,2022-08-22,Second Class,Corporate,Chicago,Central,Office Supplies,Paper,4046.76,9,0.1,1003.61
+US-2022-1808,2022-08-19,Second Class,Corporate,Denver,West,Technology,Copiers,1651.15,5,0,59.66
+US-2022-1809,2022-08-16,Standard Class,Home Office,Dallas,Central,Furniture,Chairs,5337.29,7,0,99.61
+US-2022-1810,2022-08-28,Second Class,Corporate,Philadelphia,East,Office Supplies,Binders,3232.3,9,0.2,434.75
+US-2022-1811,2022-08-28,Same Day,Consumer,San Francisco,West,Furniture,Furnishings,1543.45,5,0,467.89
+US-2022-1812,2022-08-21,First Class,Home Office,Nashville,South,Furniture,Furnishings,2104.6,2,0.1,706.58
+US-2022-1813,2022-09-09,Second Class,Corporate,New York,East,Furniture,Furnishings,5528.88,7,0.1,-164.55
+US-2022-1814,2022-09-25,Standard Class,Home Office,Chicago,Central,Furniture,Tables,5231.77,4,0.3,-382.82
+US-2022-1815,2022-09-07,Standard Class,Home Office,New York,East,Technology,Phones,10432.08,9,0,3199.67
+US-2022-1816,2022-09-12,Same Day,Home Office,Nashville,South,Technology,Phones,11167.93,6,0.3,2555.74
+US-2022-1817,2022-09-08,Standard Class,Home Office,Seattle,West,Furniture,Bookcases,1572.64,1,0.1,65.21
+US-2022-1818,2022-09-04,Second Class,Corporate,San Francisco,West,Furniture,Tables,6456.87,7,0,2245.61
+US-2022-1819,2022-09-05,Standard Class,Corporate,Boston,East,Office Supplies,Art,1600.51,8,0.4,-2.7
+US-2022-1820,2022-09-13,Standard Class,Home Office,Columbus,Central,Technology,Machines,4784.76,5,0.4,470.27
+US-2022-1821,2022-09-14,First Class,Home Office,Chicago,Central,Office Supplies,Binders,3375.84,8,0,-120.63
+US-2022-1822,2022-09-17,Second Class,Corporate,Boston,East,Technology,Accessories,7664.79,9,0.1,1476.28
+US-2022-1823,2022-09-24,Same Day,Home Office,Chicago,Central,Furniture,Furnishings,1155.81,1,0.1,51.75
+US-2022-1824,2022-09-01,Standard Class,Consumer,Columbus,Central,Furniture,Bookcases,213.52,1,0,-2.52
+US-2022-1825,2022-09-21,First Class,Consumer,Boston,East,Office Supplies,Storage,1507.46,6,0.3,-131.65
+US-2022-1826,2022-09-16,First Class,Home Office,New Orleans,South,Technology,Phones,17737.62,10,0.4,-599.71
+US-2022-1827,2022-09-20,First Class,Corporate,Atlanta,South,Office Supplies,Appliances,2684.75,7,0.2,-235.88
+US-2022-1828,2022-09-24,First Class,Corporate,Nashville,South,Furniture,Chairs,3032.26,10,0.3,-243.19
+US-2022-1829,2022-09-22,Second Class,Corporate,Indianapolis,Central,Office Supplies,Appliances,477.95,1,0,41.06
+US-2022-1830,2022-09-13,Second Class,Corporate,Columbus,Central,Furniture,Chairs,5980.35,5,0,1889.65
+US-2022-1831,2022-09-20,Second Class,Corporate,Chicago,Central,Technology,Phones,15318.64,9,0.3,1016.21
+US-2022-1832,2022-10-26,Standard Class,Home Office,Seattle,West,Furniture,Tables,726.0,3,0,172.42
+US-2022-1833,2022-10-01,Standard Class,Corporate,Boston,East,Technology,Accessories,3671.93,9,0.2,514.74
+US-2022-1834,2022-10-08,First Class,Consumer,Chicago,Central,Furniture,Chairs,11062.46,8,0.3,2087.38
+US-2022-1835,2022-10-01,Standard Class,Consumer,New York,East,Office Supplies,Art,30.4,9,0.4,11.87
+US-2022-1836,2022-10-18,Same Day,Consumer,Atlanta,South,Office Supplies,Storage,2097.81,9,0,601.88
+US-2022-1837,2022-10-25,Same Day,Home Office,New York,East,Technology,Copiers,4114.88,8,0,548.9
+US-2022-1838,2022-10-02,Same Day,Corporate,New York,East,Furniture,Chairs,9318.16,8,0,2466.01
+US-2022-1839,2022-10-15,Standard Class,Corporate,Philadelphia,East,Technology,Phones,9067.68,8,0,-634.9
+US-2022-1840,2022-10-04,Second Class,Home Office,Houston,South,Technology,Accessories,1801.13,1,0,447.47
+US-2022-1841,2022-10-12,Standard Class,Corporate,Dallas,Central,Furniture,Chairs,548.08,2,0,156.14
+US-2022-1842,2022-10-27,Same Day,Consumer,Seattle,West,Furniture,Bookcases,292.19,1,0.4,-14.45
+US-2022-1843,2022-10-23,First Class,Corporate,Philadelphia,East,Office Supplies,Paper,2778.48,6,0,955.16
+US-2022-1844,2022-10-24,Same Day,Corporate,Chicago,Central,Technology,Accessories,5180.62,7,0.1,1157.07
+US-2022-1845,2022-10-04,First Class,Home Office,Houston,South,Furniture,Bookcases,258.42,1,0.4,73.37
+US-2022-1846,2022-10-10,Second Class,Home Office,Chicago,Central,Furniture,Tables,5661.25,7,0,-66.5
+US-2022-1847,2022-10-14,First Class,Corporate,New York,East,Furniture,Furnishings,5386.75,7,0.1,1690.2
+US-2022-1848,2022-10-02,Standard Class,Corporate,Atlanta,South,Technology,Copiers,16608.31,7,0.2,1684.47
+US-2022-1849,2022-10-20,Standard Class,Corporate,Los Angeles,West,Technology,Phones,10885.0,5,0.2,1579.38
+US-2022-1850,2022-10-03,Standard Class,Consumer,Nashville,South,Furniture,Chairs,3139.4,5,0,829.98
+US-2022-1851,2022-10-08,First Class,Consumer,San Francisco,West,Technology,Phones,1947.08,9,0.1,608.4
+US-2022-1852,2022-10-13,First Class,Corporate,Indianapolis,Central,Furniture,Tables,572.7,1,0.4,159.34
+US-2022-1853,2022-10-17,Standard Class,Home Office,Boston,East,Furniture,Chairs,5391.88,4,0.3,46.95
+US-2022-1854,2022-10-03,First Class,Corporate,Houston,South,Technology,Copiers,5727.04,4,0.3,142.77
+US-2022-1855,2022-10-02,Second Class,Consumer,Boston,East,Technology,Accessories,25070.2,10,0,523.86
+US-2022-1856,2022-10-21,Same Day,Home Office,Baltimore,East,Technology,Copiers,15328.14,6,0,2091.63
+US-2022-1857,2022-10-07,Same Day,Corporate,Nashville,South,Office Supplies,Binders,948.38,2,0,129.54
+US-2022-1858,2022-10-05,Second Class,Home Office,Denver,West,Furniture,Chairs,219.35,1,0.1,55.15
+US-2022-1859,2022-10-25,Same Day,Consumer,New York,East,Furniture,Furnishings,617.74,3,0.4,53.64
+US-2022-1860,2022-10-02,Second Class,Home Office,Boston,East,Technology,Machines,4706.4,6,0,16.72
+US-2022-1861,2022-10-13,Standard Class,Home Office,Chicago,Central,Office Supplies,Appliances,3790.0,10,0,590.09
+US-2022-1862,2022-10-25,Second Class,Consumer,Denver,West,Office Supplies,Appliances,333.65,2,0.2,105.75
+US-2022-1863,2022-11-04,First Class,Corporate,New Orleans,South,Furniture,Tables,6832.5,10,0.4,103.52
+US-2022-1864,2022-11-05,First Class,Consumer,New York,East,Office Supplies,Appliances,3045.29,9,0.3,260.9
+US-2022-1865,2022-11-18,Second Class,Corporate,Nashville,South,Technology,Accessories,2297.63,4,0.1,-3.79
+US-2022-1866,2022-11-21,Same Day,Corporate,Chicago,Central,Office Supplies,Appliances,562.66,3,0.4,13.3
+US-2022-1867,2022-11-01,Second Class,Corporate,Denver,West,Furniture,Furnishings,803.09,8,0.1,9.3
+US-2022-1868,2022-11-26,Same Day,Consumer,New York,East,Furniture,Furnishings,4676.04,6,0.4,1623.59
+US-2022-1869,2022-11-02,First Class,Consumer,Boston,East,Furniture,Tables,2848.96,3,0.1,663.21
+US-2022-1870,2022-11-03,Standard Class,Corporate,Nashville,South,Office Supplies,Art,3098.88,9,0.2,890.82
+US-2022-1871,2022-11-27,First Class,Corporate,Atlanta,South,Technology,Accessories,2390.67,1,0,763.76
+US-2022-1872,2022-11-07,Second Class,Consumer,Dallas,Central,Technology,Machines,6574.24,8,0,765.66
+US-2022-1873,2022-11-25,Standard Class,Corporate,Columbus,Central,Office Supplies,Storage,3101.5,8,0.2,877.44
+US-2022-1874,2022-11-03,First Class,Corporate,San Francisco,West,Technology,Machines,8517.02,4,0.2,-777.72
+US-2022-1875,2022-11-28,Same Day,Home Office,Dallas,Central,Furniture,Tables,1650.0,10,0.2,49.25
+US-2022-1876,2022-11-17,Second Class,Home Office,Philadelphia,East,Office Supplies,Binders,857.85,3,0,-66.61
+US-2022-1877,2022-11-26,Second Class,Consumer,Columbus,Central,Technology,Machines,11572.64,6,0.3,2039.02
+US-2022-1878,2022-11-22,Same Day,Consumer,Columbus,Central,Technology,Machines,6819.27,3,0,12.08
+US-2022-1879,2022-11-02,Same Day,Home Office,New Orleans,South,Furniture,Chairs,13520.7,9,0,-309.44
+US-2022-1880,2022-11-20,Second Class,Home Office,Indianapolis,Central,Office Supplies,Storage,521.67,3,0.1,172.12
+US-2022-1881,2022-11-26,First Class,Home Office,Nashville,South,Office Supplies,Storage,1331.82,10,0.3,215.48
+US-2022-1882,2022-12-04,Second Class,Corporate,San Francisco,West,Furniture,Furnishings,705.78,10,0.4,172.67
+US-2022-1883,2022-12-17,First Class,Home Office,San Francisco,West,Furniture,Bookcases,8297.71,8,0.1,278.79
+US-2022-1884,2022-12-14,First Class,Consumer,Indianapolis,Central,Furniture,Chairs,6664.28,5,0.1,1328.76
+US-2022-1885,2022-12-02,Same Day,Consumer,New Orleans,South,Furniture,Tables,1443.58,2,0,12.68
+US-2022-1886,2022-12-01,First Class,Corporate,New Orleans,South,Office Supplies,Storage,229.81,5,0.1,15.19
+US-2022-1887,2022-12-11,First Class,Consumer,Philadelphia,East,Furniture,Furnishings,3075.16,5,0.1,570.2
+US-2022-1888,2022-12-25,Second Class,Consumer,Denver,West,Furniture,Furnishings,4788.67,7,0.2,772.92
+US-2022-1889,2022-12-03,Same Day,Home Office,Columbus,Central,Office Supplies,Art,1568.65,5,0.1,419.72
+US-2022-1890,2022-12-10,First Class,Consumer,Philadelphia,East,Furniture,Furnishings,1514.07,3,0,27.35
+US-2022-1891,2022-12-24,Standard Class,Home Office,Baltimore,East,Office Supplies,Binders,1577.72,5,0.2,457.05
+US-2022-1892,2022-12-10,Same Day,Corporate,New Orleans,South,Furniture,Chairs,12124.17,10,0.1,-97.38
+US-2022-1893,2022-12-26,First Class,Home Office,Indianapolis,Central,Technology,Phones,873.78,2,0,109.45
+US-2022-1894,2022-12-22,Standard Class,Corporate,San Francisco,West,Furniture,Bookcases,267.5,1,0.3,-13.11
+US-2022-1895,2022-12-24,Standard Class,Home Office,Dallas,Central,Technology,Machines,6413.34,10,0.4,1851.95
+US-2022-1896,2022-12-24,Standard Class,Home Office,New Orleans,South,Office Supplies,Storage,91.93,3,0.4,5.29
+US-2022-1897,2022-12-02,First Class,Home Office,Indianapolis,Central,Furniture,Furnishings,2116.04,7,0.1,281.56
+US-2022-1898,2022-12-24,First Class,Corporate,Dallas,Central,Office Supplies,Storage,414.38,1,0,165.51
+US-2022-1899,2022-12-26,Second Class,Corporate,New York,East,Technology,Copiers,7357.44,8,0,-250.53
+US-2022-1900,2022-12-20,Same Day,Home Office,Dallas,Central,Furniture,Tables,3155.72,4,0,475.71
+US-2022-1901,2022-12-04,Same Day,Home Office,Chicago,Central,Furniture,Chairs,1849.85,2,0.3,353.1
+US-2022-1902,2022-12-27,Second Class,Corporate,New York,East,Office Supplies,Appliances,1254.75,7,0,-98.05
+US-2022-1903,2022-12-12,Standard Class,Consumer,Philadelphia,East,Technology,Accessories,412.45,4,0.1,-11.09
+US-2022-1904,2022-12-05,First Class,Consumer,Nashville,South,Furniture,Chairs,2044.56,5,0.3,379.21
+US-2022-1905,2022-12-05,First Class,Home Office,Dallas,Central,Office Supplies,Art,987.3,9,0,-37.0
+US-2022-1906,2022-12-18,Second Class,Consumer,Columbus,Central,Office Supplies,Binders,397.0,4,0,36.05
+US-2022-1907,2022-12-14,Standard Class,Home Office,Houston,South,Furniture,Tables,12378.8,7,0,2343.59
+US-2022-1908,2022-12-05,Same Day,Corporate,Atlanta,South,Office Supplies,Binders,753.4,4,0,-39.28
+US-2023-1909,2023-01-12,Same Day,Corporate,Seattle,West,Technology,Phones,10626.88,6,0.3,2099.51
+US-2023-1910,2023-01-08,Second Class,Consumer,Denver,West,Furniture,Furnishings,6774.39,6,0.3,666.44
+US-2023-1911,2023-01-21,First Class,Home Office,Chicago,Central,Technology,Phones,1127.57,9,0.4,-54.68
+US-2023-1912,2023-01-02,Second Class,Corporate,New York,East,Furniture,Tables,3062.74,2,0.1,1134.39
+US-2023-1913,2023-01-09,Second Class,Consumer,Dallas,Central,Technology,Phones,10519.6,8,0,3130.15
+US-2023-1914,2023-01-28,First Class,Corporate,Chicago,Central,Office Supplies,Storage,229.26,1,0,-16.03
+US-2023-1915,2023-01-05,Same Day,Corporate,Baltimore,East,Technology,Copiers,4957.72,7,0.1,1876.07
+US-2023-1916,2023-01-22,First Class,Corporate,New York,East,Office Supplies,Storage,1328.3,5,0,123.08
+US-2023-1917,2023-01-26,First Class,Home Office,San Francisco,West,Technology,Accessories,3077.64,9,0,749.9
+US-2023-1918,2023-01-21,Second Class,Corporate,Denver,West,Technology,Phones,6003.36,4,0,1308.04
+US-2023-1919,2023-01-06,Same Day,Corporate,New York,East,Furniture,Furnishings,7585.64,4,0,2252.06
+US-2023-1920,2023-01-06,Same Day,Home Office,Chicago,Central,Technology,Copiers,3794.5,10,0,-332.85
+US-2023-1921,2023-01-15,Second Class,Home Office,Columbus,Central,Furniture,Bookcases,4843.8,9,0.2,343.5
+US-2023-1922,2023-01-21,Same Day,Home Office,San Francisco,West,Technology,Phones,7159.74,7,0,1621.14
+US-2023-1923,2023-01-23,First Class,Home Office,Philadelphia,East,Office Supplies,Appliances,1110.96,9,0.2,191.0
+US-2023-1924,2023-01-03,Second Class,Consumer,Philadelphia,East,Technology,Phones,20502.96,8,0,7824.28
+US-2023-1925,2023-01-19,Second Class,Consumer,New York,East,Technology,Copiers,9253.64,4,0,588.15
+US-2023-1926,2023-01-11,First Class,Corporate,Philadelphia,East,Furniture,Tables,4557.65,3,0.1,-29.39
+US-2023-1927,2023-01-05,Same Day,Home Office,Columbus,Central,Office Supplies,Art,3121.74,9,0,865.84
+US-2023-1928,2023-01-10,Second Class,Consumer,Indianapolis,Central,Technology,Phones,14661.6,5,0,3978.5
+US-2023-1929,2023-01-12,Second Class,Consumer,Philadelphia,East,Technology,Copiers,2640.76,1,0.1,-15.33
+US-2023-1930,2023-01-13,Second Class,Home Office,Philadelphia,East,Technology,Phones,10300.8,10,0,-532.54
+US-2023-1931,2023-01-08,Same Day,Consumer,New Orleans,South,Technology,Phones,1965.38,9,0.2,335.92
+US-2023-1932,2023-01-04,Standard Class,Consumer,Boston,East,Furniture,Chairs,863.44,10,0.2,208.32
+US-2023-1933,2023-01-15,Second Class,Home Office,San Francisco,West,Office Supplies,Paper,69.27,1,0.4,19.53
+US-2023-1934,2023-01-06,Same Day,Consumer,Philadelphia,East,Furniture,Tables,5694.48,4,0,2261.61
+US-2023-1935,2023-01-09,First Class,Home Office,San Francisco,West,Office Supplies,Art,2541.82,8,0.2,846.04
+US-2023-1936,2023-01-06,Same Day,Home Office,Baltimore,East,Office Supplies,Storage,1098.16,4,0,-11.08
+US-2023-1937,2023-01-06,Same Day,Consumer,Dallas,Central,Office Supplies,Paper,278.54,6,0.3,-1.45
+US-2023-1938,2023-02-07,Standard Class,Consumer,Dallas,Central,Office Supplies,Appliances,239.11,1,0.3,18.73
+US-2023-1939,2023-02-19,First Class,Home Office,Nashville,South,Furniture,Furnishings,12834.24,8,0,-788.9
+US-2023-1940,2023-02-16,Standard Class,Consumer,San Francisco,West,Office Supplies,Art,1149.71,7,0.4,306.79
+US-2023-1941,2023-02-27,Same Day,Consumer,Houston,South,Office Supplies,Art,485.43,3,0,184.44
+US-2023-1942,2023-02-20,Same Day,Home Office,Los Angeles,West,Technology,Accessories,2318.94,1,0.1,912.52
+US-2023-1943,2023-02-06,Same Day,Consumer,Seattle,West,Office Supplies,Paper,2628.13,6,0.1,203.46
+US-2023-1944,2023-02-10,First Class,Home Office,Atlanta,South,Office Supplies,Paper,665.14,9,0.2,30.77
+US-2023-1945,2023-02-02,First Class,Home Office,Baltimore,East,Office Supplies,Appliances,4277.61,10,0.1,657.69
+US-2023-1946,2023-02-08,Same Day,Home Office,New Orleans,South,Office Supplies,Storage,13.64,1,0.4,3.39
+US-2023-1947,2023-02-24,Standard Class,Home Office,Dallas,Central,Office Supplies,Storage,301.68,5,0.2,25.06
+US-2023-1948,2023-02-13,Second Class,Consumer,San Francisco,West,Technology,Accessories,19921.23,7,0,7899.52
+US-2023-1949,2023-02-17,Standard Class,Home Office,Baltimore,East,Furniture,Furnishings,5104.87,4,0.1,486.62
+US-2023-1950,2023-02-06,First Class,Corporate,Houston,South,Office Supplies,Binders,498.59,2,0.4,131.64
+US-2023-1951,2023-02-03,Standard Class,Corporate,Houston,South,Office Supplies,Storage,847.46,4,0.2,174.38
+US-2023-1952,2023-02-27,First Class,Home Office,New Orleans,South,Office Supplies,Storage,1051.48,4,0,-70.06
+US-2023-1953,2023-02-02,First Class,Home Office,Seattle,West,Technology,Accessories,2343.89,1,0,679.37
+US-2023-1954,2023-02-19,First Class,Home Office,Indianapolis,Central,Technology,Copiers,1075.37,3,0.3,-71.64
+US-2023-1955,2023-02-07,Same Day,Home Office,Boston,East,Office Supplies,Paper,606.32,8,0,10.45
+US-2023-1956,2023-02-05,Standard Class,Corporate,Dallas,Central,Office Supplies,Art,1308.69,10,0.1,-89.42
+US-2023-1957,2023-02-17,First Class,Corporate,Los Angeles,West,Furniture,Furnishings,7134.32,10,0.2,1121.54
+US-2023-1958,2023-02-08,Second Class,Corporate,San Francisco,West,Furniture,Bookcases,1003.11,1,0.3,335.82
+US-2023-1959,2023-02-10,First Class,Consumer,Seattle,West,Office Supplies,Appliances,586.82,7,0.3,35.05
+US-2023-1960,2023-02-12,Second Class,Corporate,Philadelphia,East,Furniture,Chairs,2936.56,4,0.1,204.28
+US-2023-1961,2023-02-22,Standard Class,Corporate,Baltimore,East,Office Supplies,Art,432.9,4,0.1,64.86
+US-2023-1962,2023-02-25,Standard Class,Corporate,Chicago,Central,Office Supplies,Art,363.02,1,0.2,86.48
+US-2023-1963,2023-03-27,Second Class,Consumer,Houston,South,Technology,Accessories,950.35,7,0.3,-47.68
+US-2023-1964,2023-03-19,Second Class,Corporate,Chicago,Central,Office Supplies,Appliances,1927.36,4,0,505.17
+US-2023-1965,2023-03-26,Same Day,Consumer,Denver,West,Technology,Accessories,3911.47,2,0.3,86.78
+US-2023-1966,2023-03-15,Same Day,Corporate,Chicago,Central,Furniture,Furnishings,1127.12,2,0,209.56
+US-2023-1967,2023-03-01,Second Class,Corporate,New York,East,Furniture,Furnishings,4846.17,7,0,542.39
+US-2023-1968,2023-03-20,Second Class,Corporate,Denver,West,Office Supplies,Paper,2351.8,5,0,872.83
+US-2023-1969,2023-03-20,First Class,Home Office,New York,East,Office Supplies,Storage,1402.58,7,0.2,361.18
+US-2023-1970,2023-03-01,First Class,Home Office,Columbus,Central,Technology,Copiers,4562.89,3,0.4,479.26
+US-2023-1971,2023-03-25,Same Day,Corporate,Atlanta,South,Technology,Accessories,6474.43,8,0.2,797.83
+US-2023-1972,2023-03-25,Standard Class,Corporate,Houston,South,Technology,Accessories,3575.04,10,0.4,-47.89
+US-2023-1973,2023-03-23,Same Day,Consumer,Atlanta,South,Furniture,Tables,5222.3,8,0.4,1415.01
+US-2023-1974,2023-03-24,Standard Class,Corporate,Dallas,Central,Office Supplies,Binders,1083.84,5,0.2,-21.03
+US-2023-1975,2023-03-21,Standard Class,Corporate,Philadelphia,East,Furniture,Chairs,11892.6,6,0,697.5
+US-2023-1976,2023-03-19,Same Day,Consumer,Nashville,South,Office Supplies,Appliances,420.56,7,0,41.25
+US-2023-1977,2023-03-01,Same Day,Home Office,Seattle,West,Technology,Accessories,7362.37,7,0.1,-390.98
+US-2023-1978,2023-03-09,Second Class,Home Office,Nashville,South,Technology,Copiers,10961.46,9,0.4,1286.01
+US-2023-1979,2023-03-07,First Class,Home Office,Atlanta,South,Office Supplies,Art,1111.47,3,0,101.59
+US-2023-1980,2023-03-07,Standard Class,Consumer,Philadelphia,East,Office Supplies,Appliances,1239.9,3,0,270.25
+US-2023-1981,2023-03-13,Same Day,Consumer,Denver,West,Technology,Machines,12772.26,9,0,1534.1
+US-2023-1982,2023-03-01,First Class,Consumer,New Orleans,South,Office Supplies,Art,617.42,2,0,8.47
+US-2023-1983,2023-03-23,Second Class,Corporate,Nashville,South,Technology,Copiers,4438.48,2,0.1,527.49
+US-2023-1984,2023-03-08,Standard Class,Home Office,Boston,East,Office Supplies,Appliances,448.75,1,0.1,125.99
+US-2023-1985,2023-03-08,Same Day,Corporate,San Francisco,West,Technology,Phones,14319.12,10,0.2,-1119.16
+US-2023-1986,2023-03-06,Same Day,Corporate,Seattle,West,Technology,Phones,6085.94,9,0.1,-409.19
+US-2023-1987,2023-03-21,Same Day,Corporate,Boston,East,Furniture,Bookcases,7865.4,6,0,1302.99
+US-2023-1988,2023-04-08,Same Day,Corporate,New York,East,Technology,Copiers,367.14,3,0.3,-4.27
+US-2023-1989,2023-04-26,Second Class,Home Office,Houston,South,Office Supplies,Art,60.27,10,0.3,-1.78
+US-2023-1990,2023-04-03,Standard Class,Home Office,New Orleans,South,Technology,Machines,2388.88,7,0.4,-200.98
+US-2023-1991,2023-04-05,Same Day,Corporate,Nashville,South,Office Supplies,Storage,902.52,3,0.2,59.49
+US-2023-1992,2023-04-05,Standard Class,Consumer,New Orleans,South,Furniture,Chairs,8767.98,7,0.2,-628.28
+US-2023-1993,2023-04-17,First Class,Home Office,New York,East,Technology,Phones,21904.92,10,0.1,-2057.38
+US-2023-1994,2023-04-24,Standard Class,Consumer,Houston,South,Technology,Phones,17029.15,9,0.3,621.24
+US-2023-1995,2023-04-26,Second Class,Home Office,Boston,East,Technology,Machines,8905.68,7,0,1585.03
+US-2023-1996,2023-04-25,Same Day,Corporate,Chicago,Central,Technology,Accessories,6274.45,5,0,-246.91
+US-2023-1997,2023-04-25,Same Day,Corporate,Nashville,South,Furniture,Tables,721.44,2,0,12.75
+US-2023-1998,2023-04-20,Standard Class,Home Office,Indianapolis,Central,Technology,Machines,1375.62,1,0,196.89
+US-2023-1999,2023-04-15,Same Day,Home Office,Chicago,Central,Technology,Accessories,12011.83,7,0.1,1398.14
+US-2023-2000,2023-04-27,First Class,Corporate,Columbus,Central,Furniture,Bookcases,2146.56,5,0.2,513.8
+US-2023-2001,2023-04-10,Second Class,Consumer,New York,East,Office Supplies,Appliances,1306.49,6,0.3,443.25
+US-2023-2002,2023-04-20,First Class,Corporate,Indianapolis,Central,Office Supplies,Art,232.05,3,0,33.22
+US-2023-2003,2023-04-07,Second Class,Corporate,Boston,East,Technology,Copiers,8361.0,6,0,895.88
+US-2023-2004,2023-04-13,Standard Class,Consumer,San Francisco,West,Technology,Accessories,6015.15,5,0,-188.26
+US-2023-2005,2023-04-12,First Class,Home Office,Boston,East,Technology,Copiers,5595.62,5,0.1,-112.38
+US-2023-2006,2023-04-08,Same Day,Consumer,San Francisco,West,Technology,Phones,132.24,2,0,32.09
+US-2023-2007,2023-05-16,Standard Class,Consumer,San Francisco,West,Office Supplies,Art,3194.66,7,0,943.55
+US-2023-2008,2023-05-18,Second Class,Consumer,Chicago,Central,Technology,Machines,7442.68,6,0.4,1988.61
+US-2023-2009,2023-05-15,Second Class,Home Office,Nashville,South,Technology,Accessories,414.01,1,0,118.15
+US-2023-2010,2023-05-16,Second Class,Consumer,Houston,South,Furniture,Furnishings,596.49,1,0.3,3.74
+US-2023-2011,2023-05-18,Second Class,Corporate,New York,East,Office Supplies,Binders,875.18,2,0,68.28
+US-2023-2012,2023-05-09,Same Day,Consumer,Chicago,Central,Furniture,Furnishings,1660.58,4,0.2,336.94
+US-2023-2013,2023-05-23,Same Day,Home Office,Atlanta,South,Furniture,Chairs,4072.05,5,0,161.33
+US-2023-2014,2023-05-08,Standard Class,Corporate,Chicago,Central,Office Supplies,Appliances,193.79,1,0,16.01
+US-2023-2015,2023-05-17,Standard Class,Consumer,Baltimore,East,Furniture,Bookcases,2081.75,6,0.1,726.71
+US-2023-2016,2023-05-04,First Class,Consumer,Los Angeles,West,Furniture,Chairs,1440.09,3,0,112.84
+US-2023-2017,2023-05-10,Same Day,Corporate,New York,East,Office Supplies,Paper,2293.56,9,0.2,553.84
+US-2023-2018,2023-05-07,Second Class,Corporate,Los Angeles,West,Furniture,Chairs,12730.9,9,0.2,3373.05
+US-2023-2019,2023-05-28,First Class,Home Office,San Francisco,West,Furniture,Chairs,1953.92,8,0,-173.12
+US-2023-2020,2023-05-25,Standard Class,Home Office,Baltimore,East,Technology,Accessories,7763.09,6,0.1,-173.72
+US-2023-2021,2023-05-22,Same Day,Corporate,Nashville,South,Technology,Accessories,1614.89,1,0.3,-86.57
+US-2023-2022,2023-05-18,Same Day,Corporate,Dallas,Central,Technology,Accessories,2043.88,1,0.1,134.5
+US-2023-2023,2023-05-25,First Class,Corporate,Denver,West,Technology,Accessories,4773.3,10,0,977.95
+US-2023-2024,2023-05-23,Second Class,Consumer,New Orleans,South,Technology,Machines,2325.03,1,0,-186.93
+US-2023-2025,2023-05-09,Same Day,Corporate,Indianapolis,Central,Furniture,Bookcases,894.18,2,0,122.11
+US-2023-2026,2023-05-20,Same Day,Corporate,Baltimore,East,Technology,Machines,2740.41,9,0,88.43
+US-2023-2027,2023-05-24,Standard Class,Corporate,Baltimore,East,Office Supplies,Art,962.39,5,0.3,174.63
+US-2023-2028,2023-05-08,Same Day,Consumer,Dallas,Central,Technology,Accessories,2839.21,6,0.1,673.77
+US-2023-2029,2023-06-23,Standard Class,Home Office,Nashville,South,Furniture,Chairs,1862.0,10,0,-111.74
+US-2023-2030,2023-06-03,Standard Class,Home Office,Atlanta,South,Furniture,Furnishings,2724.48,10,0.1,79.63
+US-2023-2031,2023-06-21,Same Day,Home Office,Los Angeles,West,Technology,Phones,6685.82,9,0.1,699.93
+US-2023-2032,2023-06-17,Standard Class,Corporate,Boston,East,Furniture,Tables,1599.65,2,0.3,305.24
+US-2023-2033,2023-06-25,First Class,Home Office,New Orleans,South,Furniture,Tables,3827.54,2,0,340.65
+US-2023-2034,2023-06-04,First Class,Corporate,Indianapolis,Central,Furniture,Tables,974.53,7,0.4,185.27
+US-2023-2035,2023-06-19,Second Class,Consumer,Chicago,Central,Furniture,Tables,262.71,1,0.1,48.6
+US-2023-2036,2023-06-11,Second Class,Corporate,Seattle,West,Office Supplies,Appliances,2296.94,8,0.1,905.0
+US-2023-2037,2023-06-01,Second Class,Consumer,New Orleans,South,Technology,Phones,3942.29,9,0.3,758.55
+US-2023-2038,2023-06-19,Same Day,Corporate,Philadelphia,East,Furniture,Chairs,8665.34,8,0.2,1059.76
+US-2023-2039,2023-06-21,First Class,Consumer,Indianapolis,Central,Technology,Machines,17937.07,8,0.1,2117.42
+US-2023-2040,2023-06-25,Same Day,Home Office,San Francisco,West,Office Supplies,Binders,2900.4,8,0,-228.58
+US-2023-2041,2023-06-21,Second Class,Home Office,Denver,West,Furniture,Furnishings,123.17,1,0.3,12.59
+US-2023-2042,2023-06-10,Standard Class,Home Office,Los Angeles,West,Furniture,Tables,2947.92,2,0,450.82
+US-2023-2043,2023-06-24,Same Day,Home Office,Seattle,West,Office Supplies,Storage,415.88,1,0.1,98.44
+US-2023-2044,2023-06-18,Same Day,Consumer,Baltimore,East,Technology,Phones,7093.68,8,0,1565.0
+US-2023-2045,2023-06-26,Second Class,Home Office,Denver,West,Technology,Machines,658.95,5,0,-5.15
+US-2023-2046,2023-06-27,Standard Class,Corporate,Indianapolis,Central,Office Supplies,Paper,1107.89,10,0.3,-81.3
+US-2023-2047,2023-06-06,Same Day,Home Office,Denver,West,Technology,Machines,499.32,5,0.1,41.19
+US-2023-2048,2023-06-21,First Class,Consumer,Columbus,Central,Technology,Machines,13573.66,9,0.2,3688.58
+US-2023-2049,2023-06-19,Second Class,Home Office,Baltimore,East,Office Supplies,Art,25.48,1,0.3,8.23
+US-2023-2050,2023-07-10,Standard Class,Consumer,Baltimore,East,Technology,Copiers,2863.42,4,0.2,659.5
+US-2023-2051,2023-07-12,Standard Class,Home Office,Baltimore,East,Technology,Copiers,11527.33,6,0.1,-1036.51
+US-2023-2052,2023-07-01,Second Class,Consumer,Baltimore,East,Technology,Machines,22470.03,9,0,782.91
+US-2023-2053,2023-07-13,Second Class,Corporate,New Orleans,South,Technology,Copiers,1616.76,1,0,500.23
+US-2023-2054,2023-07-11,Standard Class,Consumer,Denver,West,Furniture,Tables,1277.46,6,0.4,455.69
+US-2023-2055,2023-07-26,Standard Class,Corporate,Atlanta,South,Office Supplies,Binders,4644.7,10,0,1224.29
+US-2023-2056,2023-07-15,Same Day,Home Office,Philadelphia,East,Furniture,Tables,7216.27,9,0.2,2033.95
+US-2023-2057,2023-07-23,Second Class,Consumer,Indianapolis,Central,Technology,Copiers,200.74,2,0.4,39.99
+US-2023-2058,2023-07-26,Second Class,Home Office,Indianapolis,Central,Furniture,Bookcases,3587.84,4,0,1375.37
+US-2023-2059,2023-07-11,Standard Class,Corporate,Atlanta,South,Furniture,Tables,3367.14,2,0,633.95
+US-2023-2060,2023-07-27,First Class,Consumer,Boston,East,Furniture,Tables,6683.65,5,0,10.88
+US-2023-2061,2023-07-19,Second Class,Home Office,Chicago,Central,Office Supplies,Binders,1031.99,9,0.4,359.07
+US-2023-2062,2023-07-20,Standard Class,Home Office,Atlanta,South,Technology,Phones,3142.82,7,0.1,354.07
+US-2023-2063,2023-07-24,Same Day,Corporate,New York,East,Technology,Machines,22597.38,9,0.1,-322.35
+US-2023-2064,2023-07-13,Second Class,Consumer,Boston,East,Technology,Machines,14726.59,8,0.2,5801.18
+US-2023-2065,2023-07-12,Second Class,Home Office,San Francisco,West,Technology,Phones,20512.4,10,0.2,1481.15
+US-2023-2066,2023-07-28,Same Day,Home Office,New Orleans,South,Office Supplies,Art,810.56,7,0.4,278.09
+US-2023-2067,2023-07-19,Second Class,Consumer,Baltimore,East,Office Supplies,Storage,52.33,3,0.3,16.9
+US-2023-2068,2023-07-11,Second Class,Consumer,Chicago,Central,Technology,Machines,15070.8,10,0,-265.08
+US-2023-2069,2023-07-25,First Class,Consumer,Chicago,Central,Office Supplies,Storage,252.25,1,0.3,100.28
+US-2023-2070,2023-07-27,First Class,Home Office,Atlanta,South,Office Supplies,Art,2711.52,9,0.3,-146.39
+US-2023-2071,2023-07-10,First Class,Home Office,Los Angeles,West,Furniture,Furnishings,5762.23,8,0.3,-12.58
+US-2023-2072,2023-07-16,Second Class,Consumer,Nashville,South,Technology,Copiers,7133.77,7,0,2304.32
+US-2023-2073,2023-07-26,Same Day,Corporate,Boston,East,Office Supplies,Storage,1662.77,9,0.1,367.18
+US-2023-2074,2023-07-16,First Class,Home Office,San Francisco,West,Office Supplies,Binders,794.36,4,0,184.84
+US-2023-2075,2023-07-07,Same Day,Home Office,Seattle,West,Office Supplies,Appliances,225.81,2,0.1,62.55
+US-2023-2076,2023-08-27,Same Day,Home Office,Baltimore,East,Technology,Accessories,1343.57,5,0.1,59.01
+US-2023-2077,2023-08-04,First Class,Consumer,Nashville,South,Office Supplies,Appliances,4512.8,10,0,1006.01
+US-2023-2078,2023-08-05,Same Day,Consumer,Denver,West,Office Supplies,Storage,3310.2,9,0,1020.97
+US-2023-2079,2023-08-01,First Class,Corporate,Dallas,Central,Technology,Copiers,1450.13,3,0.4,-24.55
+US-2023-2080,2023-08-11,First Class,Corporate,Philadelphia,East,Office Supplies,Art,315.28,1,0.3,30.24
+US-2023-2081,2023-08-26,Standard Class,Consumer,Dallas,Central,Technology,Machines,5387.78,8,0.2,1591.27
+US-2023-2082,2023-08-19,Same Day,Consumer,San Francisco,West,Office Supplies,Storage,475.93,1,0,136.43
+US-2023-2083,2023-08-19,Standard Class,Home Office,San Francisco,West,Office Supplies,Storage,238.82,3,0.2,1.07
+US-2023-2084,2023-08-11,First Class,Home Office,New Orleans,South,Office Supplies,Paper,173.82,1,0.1,52.63
+US-2023-2085,2023-08-02,Standard Class,Corporate,New York,East,Technology,Copiers,8312.95,5,0,213.17
+US-2023-2086,2023-08-14,Same Day,Consumer,Chicago,Central,Technology,Copiers,5722.27,6,0.4,256.25
+US-2023-2087,2023-08-16,First Class,Corporate,Dallas,Central,Furniture,Furnishings,4560.08,4,0.1,785.1
+US-2023-2088,2023-08-16,Standard Class,Home Office,Baltimore,East,Office Supplies,Art,2124.19,8,0.3,-17.21
+US-2023-2089,2023-08-20,Second Class,Home Office,Denver,West,Furniture,Bookcases,4906.72,4,0,1902.95
+US-2023-2090,2023-08-01,Second Class,Corporate,Columbus,Central,Technology,Phones,7256.3,5,0.3,670.77
+US-2023-2091,2023-08-01,Standard Class,Consumer,Nashville,South,Technology,Accessories,3458.51,2,0.2,-344.58
+US-2023-2092,2023-08-04,Standard Class,Home Office,Atlanta,South,Office Supplies,Storage,1656.9,7,0.4,490.83
+US-2023-2093,2023-08-17,Second Class,Consumer,Indianapolis,Central,Office Supplies,Appliances,1390.53,9,0.1,111.02
+US-2023-2094,2023-08-27,First Class,Home Office,Houston,South,Technology,Machines,1660.25,4,0.4,101.05
+US-2023-2095,2023-08-03,Second Class,Home Office,Chicago,Central,Office Supplies,Appliances,1617.12,10,0.1,197.73
+US-2023-2096,2023-08-07,First Class,Corporate,Dallas,Central,Technology,Copiers,1680.16,2,0,-1.28
+US-2023-2097,2023-08-06,Second Class,Home Office,Boston,East,Furniture,Chairs,4459.95,5,0.4,1164.15
+US-2023-2098,2023-08-04,Standard Class,Home Office,Seattle,West,Office Supplies,Appliances,895.61,4,0.3,-79.67
+US-2023-2099,2023-09-17,Same Day,Corporate,Boston,East,Technology,Phones,2357.92,1,0,27.46
+US-2023-2100,2023-09-03,Same Day,Corporate,Los Angeles,West,Furniture,Chairs,7792.15,6,0.1,-170.28
+US-2023-2101,2023-09-28,First Class,Home Office,Denver,West,Furniture,Bookcases,9239.86,7,0,2999.72
+US-2023-2102,2023-09-14,Second Class,Home Office,Nashville,South,Office Supplies,Appliances,275.81,1,0.4,84.91
+US-2023-2103,2023-09-01,Standard Class,Consumer,New York,East,Technology,Phones,13131.9,5,0,4128.8
+US-2023-2104,2023-09-23,Standard Class,Corporate,Denver,West,Office Supplies,Binders,136.33,1,0.1,21.11
+US-2023-2105,2023-09-16,Standard Class,Home Office,Nashville,South,Technology,Copiers,5514.84,9,0.2,2029.85
+US-2023-2106,2023-09-17,Same Day,Corporate,Nashville,South,Furniture,Chairs,3386.74,4,0.1,876.72
+US-2023-2107,2023-09-21,Same Day,Consumer,Philadelphia,East,Office Supplies,Storage,512.19,9,0,109.77
+US-2023-2108,2023-09-12,Second Class,Home Office,New York,East,Technology,Accessories,2857.64,5,0.2,-221.9
+US-2023-2109,2023-09-04,Same Day,Corporate,Denver,West,Office Supplies,Paper,833.95,5,0,19.56
+US-2023-2110,2023-09-14,Same Day,Consumer,Nashville,South,Office Supplies,Art,1468.17,5,0.1,-121.36
+US-2023-2111,2023-09-26,First Class,Home Office,Indianapolis,Central,Technology,Phones,5348.59,9,0.2,2014.48
+US-2023-2112,2023-09-25,Same Day,Home Office,Dallas,Central,Office Supplies,Art,310.8,9,0.1,-9.75
+US-2023-2113,2023-09-15,Standard Class,Consumer,New York,East,Furniture,Bookcases,1280.46,6,0,48.85
+US-2023-2114,2023-09-28,Standard Class,Consumer,Los Angeles,West,Technology,Phones,15065.57,7,0.1,-1275.86
+US-2023-2115,2023-09-15,Standard Class,Home Office,Houston,South,Technology,Machines,20226.87,9,0,5514.59
+US-2023-2116,2023-09-08,Same Day,Consumer,San Francisco,West,Technology,Machines,2864.41,1,0,746.23
+US-2023-2117,2023-09-04,Standard Class,Home Office,Indianapolis,Central,Furniture,Bookcases,14712.08,8,0,-233.33
+US-2023-2118,2023-09-27,First Class,Corporate,Baltimore,East,Technology,Machines,10231.27,9,0.2,-515.35
+US-2023-2119,2023-09-04,Second Class,Consumer,Philadelphia,East,Office Supplies,Art,361.85,5,0,38.5
+US-2023-2120,2023-09-02,Second Class,Corporate,Baltimore,East,Office Supplies,Paper,3024.19,7,0.1,1111.03
+US-2023-2121,2023-10-20,Standard Class,Corporate,Dallas,Central,Furniture,Chairs,2280.17,9,0.2,422.78
+US-2023-2122,2023-10-08,Same Day,Consumer,Dallas,Central,Technology,Machines,13917.1,5,0,3321.72
+US-2023-2123,2023-10-06,Same Day,Consumer,Houston,South,Technology,Accessories,7621.04,5,0.3,-647.76
+US-2023-2124,2023-10-13,Second Class,Corporate,Atlanta,South,Furniture,Tables,6620.65,5,0,1599.97
+US-2023-2125,2023-10-28,Standard Class,Consumer,New Orleans,South,Technology,Accessories,130.68,2,0.4,10.75
+US-2023-2126,2023-10-07,First Class,Home Office,Houston,South,Technology,Accessories,4902.05,4,0.2,655.1
+US-2023-2127,2023-10-10,First Class,Corporate,New Orleans,South,Technology,Copiers,11995.02,9,0,1889.08
+US-2023-2128,2023-10-20,Second Class,Consumer,Boston,East,Office Supplies,Art,476.24,5,0.2,39.63
+US-2023-2129,2023-10-06,Second Class,Corporate,Indianapolis,Central,Technology,Accessories,238.57,1,0.3,38.7
+US-2023-2130,2023-10-28,Same Day,Home Office,San Francisco,West,Furniture,Tables,725.08,1,0.3,-40.77
+US-2023-2131,2023-10-23,First Class,Corporate,Denver,West,Office Supplies,Appliances,761.64,6,0,-22.27
+US-2023-2132,2023-10-21,Second Class,Home Office,Nashville,South,Technology,Copiers,3488.87,7,0,855.15
+US-2023-2133,2023-10-08,Second Class,Home Office,New Orleans,South,Furniture,Chairs,3695.44,4,0,-350.85
+US-2023-2134,2023-10-25,Same Day,Consumer,Baltimore,East,Furniture,Tables,12095.46,9,0,1139.56
+US-2023-2135,2023-10-03,Standard Class,Consumer,Denver,West,Office Supplies,Binders,1915.49,6,0.2,47.11
+US-2023-2136,2023-10-10,First Class,Home Office,Los Angeles,West,Furniture,Bookcases,4488.5,7,0.4,1147.8
+US-2023-2137,2023-10-11,Same Day,Home Office,New Orleans,South,Technology,Accessories,6948.94,3,0.2,1641.62
+US-2023-2138,2023-10-20,Second Class,Home Office,Baltimore,East,Office Supplies,Appliances,2291.69,8,0.3,443.86
+US-2023-2139,2023-10-06,Second Class,Home Office,Nashville,South,Office Supplies,Binders,409.04,4,0,9.57
+US-2023-2140,2023-10-09,Same Day,Home Office,Seattle,West,Technology,Copiers,6230.89,9,0.3,1244.63
+US-2023-2141,2023-10-09,Same Day,Home Office,Denver,West,Furniture,Tables,775.49,6,0.1,295.41
+US-2023-2142,2023-10-25,First Class,Consumer,Seattle,West,Furniture,Tables,12446.56,7,0,1654.09
+US-2023-2143,2023-10-10,Same Day,Consumer,Dallas,Central,Furniture,Chairs,1158.23,2,0.3,251.6
+US-2023-2144,2023-10-14,Standard Class,Home Office,Denver,West,Furniture,Furnishings,7189.07,7,0,900.33
+US-2023-2145,2023-10-08,First Class,Corporate,Chicago,Central,Office Supplies,Binders,1968.72,6,0.2,448.45
+US-2023-2146,2023-11-14,Same Day,Consumer,Indianapolis,Central,Furniture,Tables,15591.15,10,0.1,-429.23
+US-2023-2147,2023-11-10,Standard Class,Consumer,Philadelphia,East,Furniture,Bookcases,10337.52,6,0,23.4
+US-2023-2148,2023-11-20,Second Class,Consumer,Baltimore,East,Office Supplies,Art,15.4,2,0,-0.33
+US-2023-2149,2023-11-11,Standard Class,Consumer,Chicago,Central,Technology,Machines,3546.84,6,0,747.22
+US-2023-2150,2023-11-24,Standard Class,Consumer,Indianapolis,Central,Technology,Machines,6320.96,8,0,2341.31
+US-2023-2151,2023-11-27,First Class,Corporate,Boston,East,Technology,Machines,2404.4,3,0.1,166.95
+US-2023-2152,2023-11-11,Second Class,Corporate,Baltimore,East,Technology,Phones,3667.3,10,0.3,-284.5
+US-2023-2153,2023-11-08,Same Day,Corporate,New York,East,Technology,Accessories,1662.14,4,0.2,658.79
+US-2023-2154,2023-11-28,First Class,Consumer,Indianapolis,Central,Furniture,Bookcases,7160.45,6,0.1,1316.38
+US-2023-2155,2023-11-11,First Class,Home Office,San Francisco,West,Furniture,Furnishings,417.7,5,0,96.12
+US-2023-2156,2023-11-02,Second Class,Home Office,Denver,West,Office Supplies,Art,1469.75,7,0.4,390.8
+US-2023-2157,2023-11-16,Standard Class,Home Office,Dallas,Central,Office Supplies,Paper,460.33,3,0.4,38.98
+US-2023-2158,2023-11-25,First Class,Home Office,Seattle,West,Office Supplies,Art,2374.33,9,0.4,649.91
+US-2023-2159,2023-11-22,Standard Class,Home Office,New Orleans,South,Office Supplies,Appliances,1078.75,3,0.2,147.76
+US-2023-2160,2023-11-23,Same Day,Consumer,Atlanta,South,Office Supplies,Art,1034.33,3,0.3,-17.53
+US-2023-2161,2023-11-24,Second Class,Home Office,Los Angeles,West,Technology,Accessories,1110.24,4,0.4,-10.01
+US-2023-2162,2023-11-23,Standard Class,Corporate,Atlanta,South,Furniture,Bookcases,102.17,1,0.2,18.41
+US-2023-2163,2023-11-27,First Class,Consumer,Nashville,South,Technology,Accessories,1024.81,2,0.3,79.57
+US-2023-2164,2023-11-28,Same Day,Corporate,Houston,South,Furniture,Chairs,17483.9,10,0,1944.42
+US-2023-2165,2023-11-16,First Class,Corporate,Seattle,West,Technology,Accessories,588.43,1,0,144.82
+US-2023-2166,2023-11-22,Same Day,Consumer,Columbus,Central,Technology,Phones,14302.33,10,0.3,4534.08
+US-2023-2167,2023-11-06,Standard Class,Corporate,Los Angeles,West,Technology,Copiers,5382.77,5,0.1,1248.7
+US-2023-2168,2023-12-04,Second Class,Consumer,New York,East,Technology,Accessories,12359.84,9,0.3,4259.72
+US-2023-2169,2023-12-12,Same Day,Home Office,San Francisco,West,Furniture,Furnishings,5616.2,10,0,-166.79
+US-2023-2170,2023-12-12,Standard Class,Home Office,Dallas,Central,Office Supplies,Appliances,3164.16,8,0.2,-95.17
+US-2023-2171,2023-12-04,First Class,Corporate,New York,East,Technology,Accessories,3790.85,7,0,943.6
+US-2023-2172,2023-12-07,First Class,Home Office,Nashville,South,Office Supplies,Storage,1901.48,7,0,401.84
+US-2023-2173,2023-12-23,Same Day,Home Office,Baltimore,East,Office Supplies,Binders,3326.61,10,0.3,-274.29
+US-2023-2174,2023-12-09,Same Day,Consumer,Columbus,Central,Furniture,Furnishings,2072.7,10,0.1,-189.6
+US-2023-2175,2023-12-26,First Class,Consumer,Denver,West,Office Supplies,Appliances,2290.72,8,0,-144.72
+US-2023-2176,2023-12-05,First Class,Consumer,Denver,West,Furniture,Bookcases,2372.04,3,0.2,395.75
+US-2023-2177,2023-12-01,Second Class,Consumer,Chicago,Central,Office Supplies,Binders,883.44,8,0,120.32
+US-2023-2178,2023-12-10,Second Class,Corporate,Atlanta,South,Furniture,Bookcases,3220.63,4,0.4,146.12
+US-2023-2179,2023-12-28,Second Class,Corporate,New York,East,Furniture,Tables,8748.54,7,0.2,-522.92
+US-2023-2180,2023-12-12,Second Class,Home Office,Los Angeles,West,Technology,Copiers,5834.33,4,0.4,-269.97
+US-2023-2181,2023-12-15,Second Class,Corporate,Seattle,West,Office Supplies,Storage,1765.64,4,0,167.64
+US-2023-2182,2023-12-02,Same Day,Corporate,Denver,West,Office Supplies,Storage,421.92,10,0.1,-15.41
+US-2023-2183,2023-12-18,First Class,Corporate,New York,East,Office Supplies,Binders,1840.05,9,0,81.65
+US-2023-2184,2023-12-16,Same Day,Consumer,Boston,East,Office Supplies,Appliances,437.62,2,0.1,131.07
+US-2023-2185,2023-12-05,Standard Class,Consumer,Indianapolis,Central,Office Supplies,Paper,91.6,8,0,33.45
+US-2023-2186,2023-12-12,Second Class,Consumer,San Francisco,West,Furniture,Furnishings,223.74,1,0.3,77.9
+US-2023-2187,2023-12-07,Standard Class,Consumer,Seattle,West,Office Supplies,Binders,187.7,3,0.1,2.82
+US-2023-2188,2023-12-10,Standard Class,Corporate,New York,East,Technology,Phones,9288.22,6,0.1,3675.53
+US-2023-2189,2023-12-09,First Class,Home Office,Seattle,West,Office Supplies,Storage,163.62,4,0.2,51.05
+US-2023-2190,2023-12-25,Same Day,Home Office,Los Angeles,West,Technology,Phones,6808.6,5,0.2,513.02
+US-2023-2191,2023-12-04,Second Class,Corporate,Chicago,Central,Office Supplies,Art,93.99,5,0.4,25.28
+US-2023-2192,2023-12-15,Second Class,Home Office,Houston,South,Furniture,Chairs,4003.65,4,0.2,437.51
+US-2023-2193,2023-12-12,Standard Class,Home Office,Houston,South,Office Supplies,Art,461.86,9,0.1,99.14
+US-2023-2194,2023-12-26,Second Class,Corporate,New Orleans,South,Furniture,Chairs,1356.54,3,0,244.8
+US-2023-2195,2023-12-01,Standard Class,Home Office,Atlanta,South,Office Supplies,Art,954.9,10,0.1,114.52
+US-2023-2196,2023-12-23,Second Class,Corporate,Los Angeles,West,Office Supplies,Binders,863.45,7,0,253.7
+US-2023-2197,2023-12-17,First Class,Corporate,Atlanta,South,Office Supplies,Storage,1771.88,4,0,250.61
+US-2023-2198,2023-12-22,Second Class,Consumer,Chicago,Central,Technology,Machines,915.18,2,0,109.52
+US-2023-2199,2023-12-27,Standard Class,Corporate,Columbus,Central,Furniture,Chairs,6064.2,6,0.1,-188.23
