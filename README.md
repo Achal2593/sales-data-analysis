@@ -127,8 +127,8 @@ jupyter notebook Sales_Analysis.ipynb
 
 ## 📬 Contact
 
-> **YOUR NAME** | Data Analyst  
-> 📧 your.email@gmail.com  
+> **ACHAL WAKADE** | Data Analyst  
+> 📧 achalwakade29@gmail.com  
 > 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
 > 💼 [All Projects](https://github.com/YOUR_USERNAME)
 
