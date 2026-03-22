@@ -129,7 +129,7 @@ jupyter notebook Sales_Analysis.ipynb
 
 > **ACHAL WAKADE** | Data Analyst  
 > 📧 achalwakade29@gmail.com  
-> 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
+> 🔗 [LinkedIn](https://www.linkedin.com/in/achal-wakade-554494180)  
 > 💼 [All Projects](https://github.com/YOUR_USERNAME)
 
 ---
